@@ -1,0 +1,9 @@
+auth {
+  mode: apikey
+}
+
+auth:apikey {
+  key: Authorization
+  value: Bearer {{GROQ_API_KEY}}
+  placement: header
+}

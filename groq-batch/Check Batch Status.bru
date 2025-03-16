@@ -1,0 +1,15 @@
+meta {
+  name: Check Batch Status
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{GROQ_BASE_URL}}/batches/:batch-id
+  body: none
+  auth: inherit
+}
+
+params:path {
+  batch-id: batch_01jpf1emnzeqpr3w9y6rpvxrz7
+}

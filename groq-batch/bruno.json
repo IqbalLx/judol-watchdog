@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "groq-batch",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

@@ -1,0 +1,3411 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "bvoAS_GML4qUpYFtSD7xwxWmLLs",
+    "nextPageToken": "c3R1ZGlvLS1DZ2dJZ0FRVkY3ZlJPREp0Q2dJb0FSSm5RMms0ZDB4RVJUTk9SRVUwVGxSUk1FOUVTWGRPUkdNelRYcHJjMGxzVm01bFZGWkVVMVprYUdGWVRuaFNWRTB6V214a05GZ3dOREJSVjBaQ1VXdEdia2xvU1dGV1YyUTFUbFZPU2xZeVJuQmpNMFpHVFhwa2JWWXphR1pVYWxKQ1dWVkdRMUZYWXc=",
+    "pageInfo": {
+        "totalResults": 100,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xstP69Vnr2KhooBy_VcnZvDwu9M",
+            "id": "UgwmIF6xcdyQ4rGM0PV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rfFN9NKiFiQdBbEutJUTGo1nhoM",
+                    "id": "UgwmIF6xcdyQ4rGM0PV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Semangat untuk para pemula,ayo jangan menyerah",
+                        "textOriginal": "Semangat untuk para pemula,ayo jangan menyerah",
+                        "authorDisplayName": "@Mamamuji55",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/7SeM32kro9yPgAjmLYzfrBm1PIdm5jDBS1Y7C6EViYoEiLqJvaOpO_NJcGKXbforrbi6llDMDw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Mamamuji55",
+                        "authorChannelId": {
+                            "value": "UCEuPum6Cg6MTrpeU9SRuLkg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:56:30Z",
+                        "updatedAt": "2025-03-15T17:56:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "uoWZ6OCxSFfGp-IKHlJSXJUoEO8",
+            "id": "UgwgVZBSX49R20l0lxl4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3cVNmiUuqZ7yVDRvSF0wurvS8oU",
+                    "id": "UgwgVZBSX49R20l0lxl4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Berkat 𝘿𝐸𝘞A𝘋О𝑅𝐴 saya berubah, dari tukang sayur jadi pemilik supermarket.",
+                        "textOriginal": "Berkat 𝘿𝐸𝘞A𝘋О𝑅𝐴 saya berubah, dari tukang sayur jadi pemilik supermarket.",
+                        "authorDisplayName": "@Zaidanhssaa",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nDXFRPiAuihIvWuQRBKFf5IK5R8M40AQlAZZiolggMwp8ohjxFqxs0Mrk9ANKus05UJg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Zaidanhssaa",
+                        "authorChannelId": {
+                            "value": "UCI-e1CIBiAAu6uF1ODQhkGA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:38Z",
+                        "updatedAt": "2025-03-15T17:18:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "et_OPas2AIYSmKAMubFmZbqdgf4",
+            "id": "Ugxu0ZfI3Q8Jv_yjWit4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YuHAj7XbNZEn6sX4kZNmceh_U3s",
+                    "id": "Ugxu0ZfI3Q8Jv_yjWit4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Hasil di 𝘿𝙀𝐖𝐴D𝘖𝘙𝘼 membantu saya mengatasi masalah hutang dengan cepat dan efektif.",
+                        "textOriginal": "Hasil di 𝘿𝙀𝐖𝐴D𝘖𝘙𝘼 membantu saya mengatasi masalah hutang dengan cepat dan efektif.",
+                        "authorDisplayName": "@Yuuhhuiialkjj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mcs__G4H9RxC8KlIb9zOmDFpOfY98OOHgbxjIKe3oyGvIH2hZmefgkOtHLuLWIC4IWQw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Yuuhhuiialkjj",
+                        "authorChannelId": {
+                            "value": "UCMNA3eZ3kBkNE1wLRnAg21w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:36Z",
+                        "updatedAt": "2025-03-15T17:18:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_U9O9LZhWmimxDUF45Pu9L5009Y",
+            "id": "UgzqaU28yVjZKIzjKu14AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lAy3evHcGucZf_Prwz4FUH00Y7U",
+                    "id": "UgzqaU28yVjZKIzjKu14AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Begitu mantap dan memuaskan! Bermain di 𝐷EW𝐀𝘋OR𝐀 selalu lancar tanpa hambatan, rezeki pun mengalir dengan sangat deras!",
+                        "textOriginal": "Begitu mantap dan memuaskan! Bermain di 𝐷EW𝐀𝘋OR𝐀 selalu lancar tanpa hambatan, rezeki pun mengalir dengan sangat deras!",
+                        "authorDisplayName": "@Zahleengdljh",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mWHEgbf3SLKRpLlr6mJNf9CC7Djqo1RkmeKP5bw0qhKBhsxY7PaCVEXQeUbhmgH37tWA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Zahleengdljh",
+                        "authorChannelId": {
+                            "value": "UCbU9h2CoKO_zWVj52VJq_Ew"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:34Z",
+                        "updatedAt": "2025-03-15T17:18:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "alKXjw7_ysSFsX0338zCEiXa6qQ",
+            "id": "Ugykn1ym1iA-FR24DUJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zNVSdKo9g67R4Xz_WWwlxV2eoy0",
+                    "id": "Ugykn1ym1iA-FR24DUJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Senang banget main di 𝘿𝐄𝑊А𝘿𝙊𝐑𝐀, langsung dapat jakpot besar hari ini!",
+                        "textOriginal": "Senang banget main di 𝘿𝐄𝑊А𝘿𝙊𝐑𝐀, langsung dapat jakpot besar hari ini!",
+                        "authorDisplayName": "@Yordanusdljjg",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kneY-bi0bJKqNY0-E6E69YVph1lmLdW4KcpCnLeC7P6OeCu0cm50eTRv4gGnhAUKIjMw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Yordanusdljjg",
+                        "authorChannelId": {
+                            "value": "UCS2V6zANkaKccpewMW842oQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:33Z",
+                        "updatedAt": "2025-03-15T17:18:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "U0bvy-WTbjXUNHWMRexMhYDMDx0",
+            "id": "UgxCTMlMsekodLgOuft4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Jrf8dZo-_t24-uYqwKo-0yauMlk",
+                    "id": "UgxCTMlMsekodLgOuft4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Modal tambahan dari 𝐷ОЯ𝘼𝟳𝟩 membantu saya dalam membayar hutang secara efektif.",
+                        "textOriginal": "Modal tambahan dari 𝐷ОЯ𝘼𝟳𝟩 membantu saya dalam membayar hutang secara efektif.",
+                        "authorDisplayName": "@Situmorangjggjf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m8XKHqSWkWTWqWfEqmk_VKzILNNjD_Lzb82OiQOJGQrEQgbhrNF_TgQFrd7LuMlqJAqQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Situmorangjggjf",
+                        "authorChannelId": {
+                            "value": "UC06j3L0u-VPEWKJREA9zlTw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:28Z",
+                        "updatedAt": "2025-03-15T17:18:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xP2NZpIi5F-iOMdgDeBIngB9nGY",
+            "id": "UgxXnBxUb6NJT2kzgo54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "UyZ7qIevlDxJtDCaSGQwgpuG-K4",
+                    "id": "UgxXnBxUb6NJT2kzgo54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "DO𝘙𝘼𝟳𝟳 menawarkan sekilas tentang masa depan interaksi daring.",
+                        "textOriginal": "DO𝘙𝘼𝟳𝟳 menawarkan sekilas tentang masa depan interaksi daring.",
+                        "authorDisplayName": "@Soekandafjgld",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nuNlfceTDiBSTQUhxQ56YDJFbBu1DjRfTpJMFP6ck9D0x3tsglom8eMUA2blBLpRVU8w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Soekandafjgld",
+                        "authorChannelId": {
+                            "value": "UCa_yVgsAaZRRhC4mJCTbMYQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:28Z",
+                        "updatedAt": "2025-03-15T17:18:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "R7gwiVMkLdlEdkKqpvm2sDbxszk",
+            "id": "UgyXOUG0t2paNs5Zi094AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MizvOSOVVGGl8yjpOrZsubBd_Y4",
+                    "id": "UgyXOUG0t2paNs5Zi094AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Berkat 𝘋𝙊RA𝟽𝟩 saya melesat, dari penjual asongan ke bos ritel.",
+                        "textOriginal": "Berkat 𝘋𝙊RA𝟽𝟩 saya melesat, dari penjual asongan ke bos ritel.",
+                        "authorDisplayName": "@Udafsfsf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k6s3x3Sx52Ci7_TzXIUdrX1_FydhQ2WyoVEo25y94NdOmV2g4u8TIQkssk6N5z2hXrgg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Udafsfsf",
+                        "authorChannelId": {
+                            "value": "UC2ZDi2LcEtE5StycSp6E4Rw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:28Z",
+                        "updatedAt": "2025-03-15T17:18:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fu2jly2gman1umi1HFOLNvszp9U",
+            "id": "Ugy937gBazMA9dkBxz54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IJk_fopBY2I95RsLppBh2IChbXk",
+                    "id": "Ugy937gBazMA9dkBxz54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Bermain di 𝐷𝐸𝑊𝘈𝘋О𝙍𝘼 membuka jalan, dari penjual pulsa jadi pengusaha handal.",
+                        "textOriginal": "Bermain di 𝐷𝐸𝑊𝘈𝘋О𝙍𝘼 membuka jalan, dari penjual pulsa jadi pengusaha handal.",
+                        "authorDisplayName": "@Tomskyalgkd",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nM8r77Y7Us-1FW6dv-MFAEOgqP10cph49FkxXDnpVClwNGEIdM5zdTUyEgLLRRse4Z7A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Tomskyalgkd",
+                        "authorChannelId": {
+                            "value": "UCQyQf67lu6dpBbDKJc9zNAw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:26Z",
+                        "updatedAt": "2025-03-15T17:18:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XOJMIHkJSGk6JRAwHVsPaJoOUII",
+            "id": "UgxpWTlVCJ58Iac1T4F4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "W3zIC6IuivT-JVDGAsKot4R2jww",
+                    "id": "UgxpWTlVCJ58Iac1T4F4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Dengan 𝘿𝐎R𝐴𝟩𝟩 saya sukses, dari penjaja es kelapa jadi pengusaha kuliner.",
+                        "textOriginal": "Dengan 𝘿𝐎R𝐴𝟩𝟩 saya sukses, dari penjaja es kelapa jadi pengusaha kuliner.",
+                        "authorDisplayName": "@Shillafalhf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kN0vHjIDhTA7B0t2l-8jw4du0Fp3Q4NWDxREtZ0wG6prM4O5dykKEJAxt14lhBl9HMMQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Shillafalhf",
+                        "authorChannelId": {
+                            "value": "UCmOHB4yQcrcOlYy1xq44JIQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:26Z",
+                        "updatedAt": "2025-03-15T17:18:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "M7Ly-HNx8HWe0nH5jmfzytadWZ0",
+            "id": "UgxMoKwccNIG8sW4qOR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cjqcqwObF63ypfOf1SDVa7_UO5M",
+                    "id": "UgxMoKwccNIG8sW4qOR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "𝐃𝐎𝙍𝘈𝟩𝟽 menawarkan lingkungan yang ramah dan inklusif.",
+                        "textOriginal": "𝐃𝐎𝙍𝘈𝟩𝟽 menawarkan lingkungan yang ramah dan inklusif.",
+                        "authorDisplayName": "@Sifafflaj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbdw79JGc5mlEFb4L_fDS_eNfnZ3cB5TODqlDQLt_5YWQ-7_FLklstw7UB2tMe0YfK6w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Sifafflaj",
+                        "authorChannelId": {
+                            "value": "UCZQUWDCSOey0XV13r2kwgmA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:23Z",
+                        "updatedAt": "2025-03-15T17:18:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Eatz3SvgGK3xra4ODEXGaToCGZQ",
+            "id": "UgzFRwFl2YvGtsFFQ-l4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LBPLIZhNzwBYwhrDaJZwewDP3pw",
+                    "id": "UgzFRwFl2YvGtsFFQ-l4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "𝘋OR𝐴𝟩𝟩 adalah platform yang terus berkembang dan berinovasi.",
+                        "textOriginal": "𝘋OR𝐴𝟩𝟩 adalah platform yang terus berkembang dan berinovasi.",
+                        "authorDisplayName": "@Tabitakjjjl",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k_iHRN_l0TsKsAqRXBnKvUhZMHXsLhXvCXgVIQHJzdJTRw7Wt_G9XEs4chamQySZQzjQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Tabitakjjjl",
+                        "authorChannelId": {
+                            "value": "UC6omtNZBP8BOFIdGZ6v9VrQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:18:22Z",
+                        "updatedAt": "2025-03-15T17:18:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bpBqzoJlKyTfHxrYKkYJwQAqOkA",
+            "id": "UgyjDqY4LvTQdBb70Yd4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ag64uJdXh-2-NlfA42qM00DlABA",
+                    "id": "UgyjDqY4LvTQdBb70Yd4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Makasih bang Jak, jadi tersadarkan buat lebih semangat keep going 🔥",
+                        "textOriginal": "Makasih bang Jak, jadi tersadarkan buat lebih semangat keep going 🔥",
+                        "authorDisplayName": "@FilosofiTani",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/dEXfOrr3kSAgz920kerO-PfG6z9dDN6UUHZDZ5eIH1jZs9mK5gde3AMwWe931l6Ht8enDYtK=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@FilosofiTani",
+                        "authorChannelId": {
+                            "value": "UCfTkc0BoFwugfeHed92q-bw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T17:04:15Z",
+                        "updatedAt": "2025-03-15T17:04:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Tedf0DESsyLYD49mMel5Uwxystc",
+            "id": "UgxqJ-D40RGjRBbpnH54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5iD9VOAmXrcfV9XCr3B46mA1FXM",
+                    "id": "UgxqJ-D40RGjRBbpnH54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "https://youtu.be/r3veto-VE-A?si=QbRVB07sZiZNqKPd",
+                        "textOriginal": "https://youtu.be/r3veto-VE-A?si=QbRVB07sZiZNqKPd",
+                        "authorDisplayName": "@dadylinestudio",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Mk-jrE45hYAk0t4CRoaJbgryHSSD6mE16CAX7NzYVVFx6q9FNa4FnkY9kp8BoLE3RgBh5b775w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dadylinestudio",
+                        "authorChannelId": {
+                            "value": "UC4XwNUeFbxn6PF0w9wBiiIA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T16:56:30Z",
+                        "updatedAt": "2025-03-15T16:56:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "k2X0is0F8_SiWIS7CYjEZPyUHHU",
+            "id": "Ugy4lDV6fNOohcOaqrJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vbH_ONuQRITePo5NtpTNjGtGGF4",
+                    "id": "Ugy4lDV6fNOohcOaqrJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Saya baru awal bikin YouTube , jadi saya masih bingung",
+                        "textOriginal": "Saya baru awal bikin YouTube , jadi saya masih bingung",
+                        "authorDisplayName": "@SitiFaril",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mGCcO77qRAILeeq23h9y6AoVb-S6jhNjs55xh4H1JqzRtYoueMFrSC8S9Y7lZhzF6Tww=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@SitiFaril",
+                        "authorChannelId": {
+                            "value": "UCT0Dm61jiTC2cnYrjiWdNbQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T16:10:57Z",
+                        "updatedAt": "2025-03-15T16:10:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jMKOEOP8vMKyO-E6OA7oX6PNqOg",
+            "id": "UgyN_Hr1a0woPF-exml4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jtrJpnE65iKnOJ-q3FA0N3DtdlI",
+                    "id": "UgyN_Hr1a0woPF-exml4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Berkat 𝘿𝘖𝙍𝐀𝟽𝟩 saya mendapatkan dana untuk memulai usaha sampingan.",
+                        "textOriginal": "Berkat 𝘿𝘖𝙍𝐀𝟽𝟩 saya mendapatkan dana untuk memulai usaha sampingan.",
+                        "authorDisplayName": "@Amirafljgj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lImVEFshLCzwKPwsKil_wI44W3fLO5VgHisdM_-Jtm5ZMsPSMXFTRot9-tSU3zW38Ftw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Amirafljgj",
+                        "authorChannelId": {
+                            "value": "UClEUvWwNDnafTR9mDmTybHA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T14:22:27Z",
+                        "updatedAt": "2025-03-15T14:22:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "VO6u6vu3PAjZZ7XeNMmhhJJpV_A",
+            "id": "UgzlNsE93vO2VVS3wF94AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "h6N1k9mV6TvaCnx35q-zivpv6IY",
+                    "id": "UgzlNsE93vO2VVS3wF94AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Mantap jiwa raga main di D𝙊𝘙𝐴𝟳7, cuan terus menerus tanpa ada jeda!",
+                        "textOriginal": "Mantap jiwa raga main di D𝙊𝘙𝐴𝟳7, cuan terus menerus tanpa ada jeda!",
+                        "authorDisplayName": "@Chikgjghs",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nBDeZ9mqdIFB9ZVjY1L_Zestnzoo5Sf1l4wqCS9M9x7GOn4Ieia6TOKEF-97zhMtLXgw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Chikgjghs",
+                        "authorChannelId": {
+                            "value": "UCWdwDi2tAl8n9xN0_Vv20hQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T14:22:27Z",
+                        "updatedAt": "2025-03-15T14:22:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "I4qfg9LrQdWMF1NCTQMBNMFP4yk",
+            "id": "UgwbAj6YOQXW8RJk-cF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ZIemlxa1T47mpj8oaoX0BRh_hRA",
+                    "id": "UgwbAj6YOQXW8RJk-cF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Senang banget bisa dapet rezeki hari ini dari 𝐷E𝑊𝘈𝘋𝐎𝐑𝘈!",
+                        "textOriginal": "Senang banget bisa dapet rezeki hari ini dari 𝐷E𝑊𝘈𝘋𝐎𝐑𝘈!",
+                        "authorDisplayName": "@Amnifhjdj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_li0yM6cYLIOWjD11MRFrJBTyO1UpGuxl0HXyI_Shaix_AohWC1X6iVYA2plRVEmtsyaw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Amnifhjdj",
+                        "authorChannelId": {
+                            "value": "UCzMj_1TaNTcQpM3suQHmxZQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T14:22:26Z",
+                        "updatedAt": "2025-03-15T14:22:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "d3rhKrdCfaguZu0Xu6AgLTCTJmI",
+            "id": "Ugz0i00-xh438E5k7at4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sw9slw3Wtx2shwoWmYkw4hFDAyw",
+                    "id": "Ugz0i00-xh438E5k7at4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Gokil! JP lagi dan lagi di 𝘿𝑂𝐑А77, rezeki emang lagi sayang banget!",
+                        "textOriginal": "Gokil! JP lagi dan lagi di 𝘿𝑂𝐑А77, rezeki emang lagi sayang banget!",
+                        "authorDisplayName": "@Aliajskak",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Aliajskak",
+                        "authorChannelId": {
+                            "value": "UCkXxMRtlg_uiSqgKpTlCiOA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T14:22:26Z",
+                        "updatedAt": "2025-03-15T14:22:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tD5Jm1p9_l6tJy_Yo5tqW1nOcCU",
+            "id": "Ugx1atCeuWsEb-aQMJR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8M3J6SYsi8mFh6ryp4dJfgKRCeE",
+                    "id": "Ugx1atCeuWsEb-aQMJR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Mencari platform untuk memperluas pengetahuan Anda? 𝐷𝘌𝙒𝘈𝘿O𝐑𝘼 mungkin tempatnya.",
+                        "textOriginal": "Mencari platform untuk memperluas pengetahuan Anda? 𝐷𝘌𝙒𝘈𝘿O𝐑𝘼 mungkin tempatnya.",
+                        "authorDisplayName": "@Alfitrohhsjll",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Alfitrohhsjll",
+                        "authorChannelId": {
+                            "value": "UCNGtcPKfLvTaA-jvEZAlULA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T14:22:26Z",
+                        "updatedAt": "2025-03-15T14:22:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "898kTSRdkMWAEbwBSCPHaqOrzoQ",
+            "id": "UgzG0TRSHCVkRvsi8Ct4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8AvGRznccwDnqh8B3_ry7RO2v6E",
+                    "id": "UgzG0TRSHCVkRvsi8Ct4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Bang sorry gw kan baru bwt chanel youtube, bwt naikin subscribe nya gmna ya bang. Tolong pnjelasan nya bang 🙏",
+                        "textOriginal": "Bang sorry gw kan baru bwt chanel youtube, bwt naikin subscribe nya gmna ya bang. Tolong pnjelasan nya bang 🙏",
+                        "authorDisplayName": "@DoniWangge",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/4a0HyOA401D04ASxeJqvKo4jt7R-bkCZFmzotxq3MLbGmB8U0K9lx8npC2fYQ3eMU2yUqIbhcw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DoniWangge",
+                        "authorChannelId": {
+                            "value": "UCHeFwJXRu83ATG-4VjAFiLA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T13:35:05Z",
+                        "updatedAt": "2025-03-15T13:35:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "y9S3fUzyHD-JSbct0BAScOS6sX8",
+            "id": "Ugw6zIwDEdU87NboSqp4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HyoitRHGfdISY82v6BebAgND6wo",
+                    "id": "Ugw6zIwDEdU87NboSqp4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Sy mulai ngeyotube sejak tahun 2017, namun saat itu sepi penonton, karena belum tahu ilmunya, jatuh bangun, namun tekad yg kuat sy belajar ilmu youtube dari berbagai sumber 2017 hingga 2020. Tahun 2021 mulai paham, mulai memperbaiki channel, mulai ada penonton, dan berkembang sedikit demi sedikit, dan setahun kemudian tahun 2002-2023 berkembang pesat, karna sdh ngerti bagaimana cara kerja youtube, mulai melebarkan sayap dgn membangun banyak cahnnel target dalam dan luar negeri dgn berbagai tema, mulai dari dayli, horror films, tutorial, design, animation, konstruksi, channel anak2, dll",
+                        "textOriginal": "Sy mulai ngeyotube sejak tahun 2017, namun saat itu sepi penonton, karena belum tahu ilmunya, jatuh bangun, namun tekad yg kuat sy belajar ilmu youtube dari berbagai sumber 2017 hingga 2020. Tahun 2021 mulai paham, mulai memperbaiki channel, mulai ada penonton, dan berkembang sedikit demi sedikit, dan setahun kemudian tahun 2002-2023 berkembang pesat, karna sdh ngerti bagaimana cara kerja youtube, mulai melebarkan sayap dgn membangun banyak cahnnel target dalam dan luar negeri dgn berbagai tema, mulai dari dayli, horror films, tutorial, design, animation, konstruksi, channel anak2, dll",
+                        "authorDisplayName": "@afanchannel2668",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mZi4V00_qWEhDNrqrEWSKsbc9w4Skkwa32y9zgd_8YDKI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@afanchannel2668",
+                        "authorChannelId": {
+                            "value": "UCwNI80O1UQUgDfMzO8mmy0A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T13:18:05Z",
+                        "updatedAt": "2025-03-15T13:18:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yk5ovacrE1fnl-FtgTiXbd7TXl4",
+            "id": "UgzkpnCDTdIEuvGiSLF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ay8H85JpUnRMQ0JuMCnCHw52MFs",
+                    "id": "UgzkpnCDTdIEuvGiSLF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "She has a lisp",
+                        "textOriginal": "She has a lisp",
+                        "authorDisplayName": "@WippSherid",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDYs63D1AF7TZLDGV2dMPU_6D0RDvLHLm3lYHfTNq9_j2pKTwXoITX4cqMeGCgIZ4eRg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@WippSherid",
+                        "authorChannelId": {
+                            "value": "UCbx7tMlxWCkf7K1DG8mXlDA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T11:30:19Z",
+                        "updatedAt": "2025-03-15T11:30:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GEKJIvgNk9qn4NDumoq9G71X6wk",
+            "id": "Ugxg3YnVOGMAafNqZiZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "wYBz5gmd634",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "v6zsSCf7W7hu98jeiATvozbfE0U",
+                    "id": "Ugxg3YnVOGMAafNqZiZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "wYBz5gmd634",
+                        "textDisplay": "Tengkyu",
+                        "textOriginal": "Tengkyu",
+                        "authorDisplayName": "@VivoNusantara-p7e",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rKuyxj58KafAfUmlFX-LKAjkg93RkeniVzSEeKnLL4YEs-ylW_dOYdypTiD484H20OR3tOO43Eo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@VivoNusantara-p7e",
+                        "authorChannelId": {
+                            "value": "UCqENADeWNvLKdd0zmrhQ0Gw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T10:38:54Z",
+                        "updatedAt": "2025-03-15T10:38:54Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "dJeFSRV1NqaUcKmCQGfXLl5HKW4",
+            "id": "UgwmbC-H_r83dPIhBoh4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NdHaoQei7FqnDPzDs_ZqVce_DaI",
+                    "id": "UgwmbC-H_r83dPIhBoh4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Salam kenal kak",
+                        "textOriginal": "Salam kenal kak",
+                        "authorDisplayName": "@VivoNusantara-p7e",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rKuyxj58KafAfUmlFX-LKAjkg93RkeniVzSEeKnLL4YEs-ylW_dOYdypTiD484H20OR3tOO43Eo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@VivoNusantara-p7e",
+                        "authorChannelId": {
+                            "value": "UCqENADeWNvLKdd0zmrhQ0Gw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T10:29:14Z",
+                        "updatedAt": "2025-03-15T10:29:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WcsneFe4pSq14Xg6b5bdZ95UgSI",
+            "id": "UgzOOaziAUD4v9cfxB54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ElHoUSOlJPye-8pxsUSfDFOQQXY",
+                    "id": "UgzOOaziAUD4v9cfxB54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Cuma main sebentar, tapi langsung dapet jakpot besar. Coba deh di DЕ𝙒𝐴DОЯ𝘼!",
+                        "textOriginal": "Cuma main sebentar, tapi langsung dapet jakpot besar. Coba deh di DЕ𝙒𝐴DОЯ𝘼!",
+                        "authorDisplayName": "@Aldakljjl",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n2udBzeYBteVO94AOvACDKqyHN4sBTqV2YenVzO3Y2Ic5h7sd9c1UhQi-g7V9kvb_L3A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Aldakljjl",
+                        "authorChannelId": {
+                            "value": "UCVJt2B36jYJPlpbhE4JUXfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T10:16:38Z",
+                        "updatedAt": "2025-03-15T10:16:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_zg_MvIx_qtX7LNtbJ0fRQstzX0",
+            "id": "UgzJf-02R00iqF7cLkZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "eg7UdmKpVC8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GZXCQDshZaskXLpRjzJgryPC7cE",
+                    "id": "UgzJf-02R00iqF7cLkZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "eg7UdmKpVC8",
+                        "textDisplay": "Penasaran sama temen-temen yang udah menang? Aku baru coba di 𝐃𝐎𝐑𝐴𝟳𝟩, langsung gacir!",
+                        "textOriginal": "Penasaran sama temen-temen yang udah menang? Aku baru coba di 𝐃𝐎𝐑𝐴𝟳𝟩, langsung gacir!",
+                        "authorDisplayName": "@Agnesdjklf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lImVEFshLCzwKPwsKil_wI44W3fLO5VgHisdM_-Jtm5ZMsPSMXFTRot9-tSU3zW38Ftw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Agnesdjklf",
+                        "authorChannelId": {
+                            "value": "UCyARyh_h2UYTPZ1IdIbSMig"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T10:16:38Z",
+                        "updatedAt": "2025-03-15T10:16:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ORIPrxT8DKnc9JIZ5aaNrq4zSDU",
+            "id": "Ugxwgg35DxUgbNDEsM94AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "cLTFS6ecvVo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XTmV5xnSRUl8rCSLJDdwRkxkU9A",
+                    "id": "Ugxwgg35DxUgbNDEsM94AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "cLTFS6ecvVo",
+                        "textDisplay": "𝐦𝐚𝐢𝐧 𝐝𝐢 sini 𝐠𝐚𝐜𝐨𝐫 𝐡𝐚𝐛𝐢𝐬 𝐛𝐚𝐫𝐮 𝐬𝐚𝐣𝐚 𝐦𝐚𝐢𝐧 𝐬𝐮𝐝𝐚𝐡 𝐝𝐢 𝐤𝐚𝐬𝐢 𝐦𝐚𝐱𝐰𝐢𝐧 𝐢 𝐥𝐨𝐯𝐞 𝐲𝐨𝐮 sawer4d 𝐞𝐦𝐦𝐦𝐦𝐮𝐚𝐚𝐚𝐡𝐡..",
+                        "textOriginal": "𝐦𝐚𝐢𝐧 𝐝𝐢 sini 𝐠𝐚𝐜𝐨𝐫 𝐡𝐚𝐛𝐢𝐬 𝐛𝐚𝐫𝐮 𝐬𝐚𝐣𝐚 𝐦𝐚𝐢𝐧 𝐬𝐮𝐝𝐚𝐡 𝐝𝐢 𝐤𝐚𝐬𝐢 𝐦𝐚𝐱𝐰𝐢𝐧 𝐢 𝐥𝐨𝐯𝐞 𝐲𝐨𝐮 sawer4d 𝐞𝐦𝐦𝐦𝐦𝐮𝐚𝐚𝐚𝐡𝐡..",
+                        "authorDisplayName": "@Andro23-r6x",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n2udBzeYBteVO94AOvACDKqyHN4sBTqV2YenVzO3Y2Ic5h7sd9c1UhQi-g7V9kvb_L3A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Andro23-r6x",
+                        "authorChannelId": {
+                            "value": "UCyhuelP2_jjcgdssGfTz9iQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T10:07:54Z",
+                        "updatedAt": "2025-03-15T10:07:54Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "doq8W6Nt9Ii43Kl6fGmWY88NArI",
+            "id": "UgynTsY8qB7-tPKso_N4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pz0uuLRn3w8toaioqHkCjcEXuRc",
+                    "id": "UgynTsY8qB7-tPKso_N4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Why is indongsial accent like that?",
+                        "textOriginal": "Why is indongsial accent like that?",
+                        "authorDisplayName": "@wizdroid",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/y8qrtKiodmBAaFpkTP7QtjFa6UdDpmz_jViE57vzpBFww9hM0bb0N4pxIRBof3HoVk9Hzyp6=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@wizdroid",
+                        "authorChannelId": {
+                            "value": "UCP1rrm-p01cFY_XK_WgcO0g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T09:34:35Z",
+                        "updatedAt": "2025-03-15T09:34:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UbtWVjwuMp8BqYEc257Nf_D-Z7o",
+            "id": "Ugw486Ns5Mb-FWaiB5R4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "c_zhm86dMJz7G0SD-H1UFDSBO_8",
+                    "id": "Ugw486Ns5Mb-FWaiB5R4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Judol ktl😭\n\nYt indo smua kebanjiran bot jdol🚶 hmmz",
+                        "textOriginal": "Judol ktl😭\n\nYt indo smua kebanjiran bot jdol🚶 hmmz",
+                        "authorDisplayName": "@Localnimation",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ZgT-HrT561pwuWqLSsPAGNZMZ5Q6d6aFOtpVNn2eMXBYQeqsm01uG17mmmT0uRPp_6H9K9cZ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Localnimation",
+                        "authorChannelId": {
+                            "value": "UCj3bqBOmaL-1WMmbQPFnljQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:17:21Z",
+                        "updatedAt": "2025-03-15T07:17:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5YI4OEHRgFUxEhAwSwYO-dlHN-4",
+            "id": "Ugx3_c_x4iZua3CnQlR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Hhx-DJoSJZDOJ9smDpZU-BoG7zs",
+                    "id": "Ugx3_c_x4iZua3CnQlR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Bener-bener gacir banget main di 𝐀Е𝑅𝘖𝟪𝟴.Modal kecil, hasilnya luar biasa!",
+                        "textOriginal": "Bener-bener gacir banget main di 𝐀Е𝑅𝘖𝟪𝟴.Modal kecil, hasilnya luar biasa!",
+                        "authorDisplayName": "@JokoIolande",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nkHMdD8-iph0EM_9XXOHFTX5yr1_08Pyl5RsRmTC8NcKJnWauEhfigEgk72JRwumN-OA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JokoIolande",
+                        "authorChannelId": {
+                            "value": "UCNcoWvMRG8rtOwMqiA10BvQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:10:13Z",
+                        "updatedAt": "2025-03-15T07:10:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IlVyDzSs56T2pReFt6Qq7gr5Zgo",
+            "id": "Ugx_OAbByCbTcBdp6G94AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6LUeCq0q9C3QW91lPr9mZTFl4Hg",
+                    "id": "Ugx_OAbByCbTcBdp6G94AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Rezeki nomplok dari 𝐴𝐆𝑈S𝐓ОTО! Modal kecil, hasilnya luar biasa! Pasti balik lagi.",
+                        "textOriginal": "Rezeki nomplok dari 𝐴𝐆𝑈S𝐓ОTО! Modal kecil, hasilnya luar biasa! Pasti balik lagi.",
+                        "authorDisplayName": "@JokoIolande",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nkHMdD8-iph0EM_9XXOHFTX5yr1_08Pyl5RsRmTC8NcKJnWauEhfigEgk72JRwumN-OA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JokoIolande",
+                        "authorChannelId": {
+                            "value": "UCNcoWvMRG8rtOwMqiA10BvQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:10:08Z",
+                        "updatedAt": "2025-03-15T07:10:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wNOJmhemLVn9b32OxVrkSBgERd0",
+            "id": "Ugz9ga8VlsnvhYKttIB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Tsdx_4O4_ahTu3jRVFyjD6mIFW0",
+                    "id": "Ugz9ga8VlsnvhYKttIB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Borong semua hadiah di 𝘼𝐆𝑈𝐒𝐓O𝑇О,auto jadi juragan!",
+                        "textOriginal": "Borong semua hadiah di 𝘼𝐆𝑈𝐒𝐓O𝑇О,auto jadi juragan!",
+                        "authorDisplayName": "@ĎvřmđñJosi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kUYLlHvpOzPr_zc3WoGGObogF6_IFQHT-aJ-3mBX8z0LciCRD1uIydnQl1wcUpkVIyMNg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@%C4%8Ev%C5%99m%C4%91%C3%B1Josi",
+                        "authorChannelId": {
+                            "value": "UCL1EYzBkYacB7Ck2xssdrGQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:10:00Z",
+                        "updatedAt": "2025-03-15T07:10:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qVLNYQ9gJ95KgOFfxLkkoG4zpPg",
+            "id": "Ugxy4zr0TR6L8YszoF14AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "axgzRT191SzRykxyS3DHvv7fRfw",
+                    "id": "Ugxy4zr0TR6L8YszoF14AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Main sekali di А𝙂𝘜𝑆𝙏𝑂𝘛O,langsung dapet rezeki gede!",
+                        "textOriginal": "Main sekali di А𝙂𝘜𝑆𝙏𝑂𝘛O,langsung dapet rezeki gede!",
+                        "authorDisplayName": "@PigayBakoury",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mL5AcD1g44LBAuDqwNx43wXm0Ag2DM15y-xgqr60QEEIlmQdJi-HpFUQjDW-Zp-bCHzw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@PigayBakoury",
+                        "authorChannelId": {
+                            "value": "UCPYsCvAt6FnWBpuP1d-raWQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:56Z",
+                        "updatedAt": "2025-03-15T07:09:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-W3WIr-tabSQsdGGz84FUm7oDA0",
+            "id": "Ugz1iKEJABrUiQONysl4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tHnY0MsC200z-i2up5I6ZmuKLJI",
+                    "id": "Ugz1iKEJABrUiQONysl4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Bermain di 𝐴𝘌𝑅𝑂𝟪𝟪-jadi bukti kalau keberuntungan bisa datang kapan aja!",
+                        "textOriginal": "Bermain di 𝐴𝘌𝑅𝑂𝟪𝟪-jadi bukti kalau keberuntungan bisa datang kapan aja!",
+                        "authorDisplayName": "@ĎvřmđñJosi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kUYLlHvpOzPr_zc3WoGGObogF6_IFQHT-aJ-3mBX8z0LciCRD1uIydnQl1wcUpkVIyMNg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@%C4%8Ev%C5%99m%C4%91%C3%B1Josi",
+                        "authorChannelId": {
+                            "value": "UCL1EYzBkYacB7Ck2xssdrGQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:54Z",
+                        "updatedAt": "2025-03-15T07:09:54Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "SJqkIWoFjXBU_jBiC8TWCDzLnw8",
+            "id": "UgzCPVCrZ1AHhrFFU-54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "M53p7yr7qpGba4T9ztLiUSzlFlo",
+                    "id": "UgzCPVCrZ1AHhrFFU-54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Happy banget bisa dapet menang besar dari 𝘈𝘌ЯO𝟪𝟪!",
+                        "textOriginal": "Happy banget bisa dapet menang besar dari 𝘈𝘌ЯO𝟪𝟪!",
+                        "authorDisplayName": "@PigayBakoury",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mL5AcD1g44LBAuDqwNx43wXm0Ag2DM15y-xgqr60QEEIlmQdJi-HpFUQjDW-Zp-bCHzw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@PigayBakoury",
+                        "authorChannelId": {
+                            "value": "UCPYsCvAt6FnWBpuP1d-raWQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:51Z",
+                        "updatedAt": "2025-03-15T07:09:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "M1BrMfqsXpbftXzImtH_XLA3wAs",
+            "id": "Ugy2ewFsDKun-yTQEZZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "z_DTP45V6boYQLmppYQaDnxekjA",
+                    "id": "Ugy2ewFsDKun-yTQEZZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Gak ada obat main di 𝐀𝙀𝙍O𝟪8,cuan melimpah!",
+                        "textOriginal": "Gak ada obat main di 𝐀𝙀𝙍O𝟪8,cuan melimpah!",
+                        "authorDisplayName": "@RezekiAsan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nda3NuW4HXFz11TFja6elUTDgEB9wuwjLWBcCho3VqWai3G3DxOL09_d1cje349l3kKw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@RezekiAsan",
+                        "authorChannelId": {
+                            "value": "UCwkHxctM4gF-ZHOTzMQRG9A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:47Z",
+                        "updatedAt": "2025-03-15T07:09:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OMZyCVZ6FvWy9eaKzIY6WYqjwy4",
+            "id": "Ugzvv40pzPCEtsE2B794AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4CBazonPQg8NJ5hAsS-crYr1U9M",
+                    "id": "Ugzvv40pzPCEtsE2B794AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Main bareng teman di 𝘈𝐸𝑅О𝟴𝟪-makin seru, makin banyak cuan!",
+                        "textOriginal": "Main bareng teman di 𝘈𝐸𝑅О𝟴𝟪-makin seru, makin banyak cuan!",
+                        "authorDisplayName": "@HamidJason-t6z",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nWYWEApFtIJntK9shwlEwV9_wRtAHtPupeYUpmVYicAgNsz9R5Ritb9w2bJZCVPccFrA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@HamidJason-t6z",
+                        "authorChannelId": {
+                            "value": "UCMHmPiUkHo-KIcnzFFZpPkw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:42Z",
+                        "updatedAt": "2025-03-15T07:09:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8KjoHxjvZih_gWT_cOPSgT93BTU",
+            "id": "UgwU-k0EWWwjc2nS3Z54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GMBRveJhiSOmdQOAgQM__izyLTw",
+                    "id": "UgwU-k0EWWwjc2nS3Z54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Hari yang menyenangkan berkat А𝐸𝐑𝙊𝟾8! Rezeki datang menghampiri!",
+                        "textOriginal": "Hari yang menyenangkan berkat А𝐸𝐑𝙊𝟾8! Rezeki datang menghampiri!",
+                        "authorDisplayName": "@KiranaCarlene",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lstB3YH641mvD7c0F5CsIK1VohS5sGjDHznzqAxeFzDrKoh35mwiEQPb1tQwNdxYWaWA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KiranaCarlene",
+                        "authorChannelId": {
+                            "value": "UCF2VnfSNxkWFaCk_fq6OPNw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:09:41Z",
+                        "updatedAt": "2025-03-15T07:09:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "R8Z8Fh8Rb7sXtmC_P1wCO9pc4Es",
+            "id": "Ugz5xuYlN53fQXjcBXJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aij18mufkg-9gwyqxeSzHcQp9Zs",
+                    "id": "Ugz5xuYlN53fQXjcBXJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Gak pernah kebayang bisa dapet jakpot besar. Semua bisa terjadi di 𝘋𝙀𝐖𝐴D𝘖Я𝐴!",
+                        "textOriginal": "Gak pernah kebayang bisa dapet jakpot besar. Semua bisa terjadi di 𝘋𝙀𝐖𝐴D𝘖Я𝐴!",
+                        "authorDisplayName": "@Sofianaljjaj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mA5iYFWQWr-erQfOrpRSPi7uAL1ykOBKRSbPBDp88Z1xyBT7Je5IKp6_AckwgwsDEc-Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Sofianaljjaj",
+                        "authorChannelId": {
+                            "value": "UCb6EUJN8zRVWhnQhCjIwzgw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:03Z",
+                        "updatedAt": "2025-03-15T07:06:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YlW90eJDv5viaE7PlkJr2GwqKIs",
+            "id": "Ugz69EkB6aoxG1090fF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NeK2pIpsJ0jgVmyTRxzV9YHuekQ",
+                    "id": "Ugz69EkB6aoxG1090fF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Merasa sangat bahagia dan bersyukur bisa mendapatkan rezeki yang berkah dari 𝐃𝘌𝐖𝘈𝐃𝙊Я𝘈!",
+                        "textOriginal": "Merasa sangat bahagia dan bersyukur bisa mendapatkan rezeki yang berkah dari 𝐃𝘌𝐖𝘈𝐃𝙊Я𝘈!",
+                        "authorDisplayName": "@Saryladgf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k82QyAI4bPkllTGYW1uAh9g2F373PAH3byJC8f1I0FsxpqxMTd2Pi9ZMx0zq4opKmx6Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Saryladgf",
+                        "authorChannelId": {
+                            "value": "UC_qoUnKJ6GA_uSXX5kZNW3A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:03Z",
+                        "updatedAt": "2025-03-15T07:06:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0U5-V2GcVL-qvdqIAxXJgwEmcMU",
+            "id": "UgwFNeHQNTsS8Eex1eZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jt5VreTADCUV-qT40oloj31Fc_A",
+                    "id": "UgwFNeHQNTsS8Eex1eZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Hasil nyata di D𝙀W𝐀DO𝑅𝘈 mengantar saya, dari tukang jahit jadi pemilik butik.",
+                        "textOriginal": "Hasil nyata di D𝙀W𝐀DO𝑅𝘈 mengantar saya, dari tukang jahit jadi pemilik butik.",
+                        "authorDisplayName": "@Jolakgjgj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktf9w-_Y-Ykk2WaCOrvRvto-DqwRfZrCwkWm-etOgO-lhcHcpTYkUtyPAuK6d42C4TAw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Jolakgjgj",
+                        "authorChannelId": {
+                            "value": "UCEELKboq6aYq_AC9jAnx-kQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:03Z",
+                        "updatedAt": "2025-03-15T07:06:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mjWwrkoeuYbV8b8GyfPQEQkLjTU",
+            "id": "UgxBLDAZgwyIXMqkrLt4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "85ypU3R-KtLW8oD4KIDYN8tNr0o",
+                    "id": "UgxBLDAZgwyIXMqkrLt4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Nggak salah pilih main di 𝘿𝙀𝐖𝐀𝘿𝑂Я𝐴, rezekinya ngalir terus. Top banget!",
+                        "textOriginal": "Nggak salah pilih main di 𝘿𝙀𝐖𝐀𝘿𝑂Я𝐴, rezekinya ngalir terus. Top banget!",
+                        "authorDisplayName": "@LepRieaflaa",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n1hHNFfhXBR4BASbMAHa8CRJOT-_7vV_OG-i3RKWwWIZ-j-3B7Fl4iapOfpamSrb2qYA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@LepRieaflaa",
+                        "authorChannelId": {
+                            "value": "UCdNv3MF_qmm6wbyRVK5YENQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:02Z",
+                        "updatedAt": "2025-03-15T07:06:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "fypPQZe3KPUQvL_DZh3lreNMKFk",
+            "id": "Ugy4_1J4SiQBzlG-WzJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lpCI3luNCesJj32ls2FFtK9-6yk",
+                    "id": "Ugy4_1J4SiQBzlG-WzJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Di 𝐃𝘌WA𝐃О𝙍𝐴 saya menemukan peluang, dari petani kecil jadi pemilik agribisnis.",
+                        "textOriginal": "Di 𝐃𝘌WA𝐃О𝙍𝐴 saya menemukan peluang, dari petani kecil jadi pemilik agribisnis.",
+                        "authorDisplayName": "@Fahrezifdgsj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEK1kbF7CC8jzmxy5AOsGznV0V8U7waLwCm7EBugLuJA6Zhn2wYaW4DejMrvW3aNbXFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Fahrezifdgsj",
+                        "authorChannelId": {
+                            "value": "UCzQRfUFMRk4wLS_2VNoGYZg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:02Z",
+                        "updatedAt": "2025-03-15T07:06:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PQq1juP7hsbb5BQpsAo0ukFBY50",
+            "id": "UgzWx1NeoI9W2tzgY-R4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JzlfudMuFbMF1E0Q3tQKnQcs5vE",
+                    "id": "UgzWx1NeoI9W2tzgY-R4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Sikat terus di DЕ𝐖𝘈𝐃ОЯ𝐀! Dijamin cuan gak ada habisnya!",
+                        "textOriginal": "Sikat terus di DЕ𝐖𝘈𝐃ОЯ𝐀! Dijamin cuan gak ada habisnya!",
+                        "authorDisplayName": "@Nickkllja",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4EABOy6Ijor53Y9vON11pv7lnVa4DCZbpGTyhfVHnh3Pxiux6cQbieChI2FN94xMBGA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Nickkllja",
+                        "authorChannelId": {
+                            "value": "UCuSMqHkfoubM68fKZ1WvZ5A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:02Z",
+                        "updatedAt": "2025-03-15T07:06:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MLQYwS0qgvN4DvfHrs0nbEkp5wE",
+            "id": "UgyyFcv6_5VWZSiCrSZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "HifHO0NzDVw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LPoOrf-Iy-2oQgtprCz49zOBH5E",
+                    "id": "UgyyFcv6_5VWZSiCrSZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "HifHO0NzDVw",
+                        "textDisplay": "Berkat 𝐃𝘖𝘙𝘼7𝟩 saya mendapatkan dana untuk mendukung pertumbuhan usaha.",
+                        "textOriginal": "Berkat 𝐃𝘖𝘙𝘼7𝟩 saya mendapatkan dana untuk mendukung pertumbuhan usaha.",
+                        "authorDisplayName": "@Erinasshdk",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nX6uF4gU8Lo_Uy7QCzyRLukJBUW3LQtAg2LFIdS9uk3TzTi81ldpp-mp8bVl_n17DE1Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Erinasshdk",
+                        "authorChannelId": {
+                            "value": "UCi3ELOICRhrYRkWLSZb7M9w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T07:06:02Z",
+                        "updatedAt": "2025-03-15T07:06:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "q3On4mwOrLH3gREyY0HgEUPtHjE",
+            "id": "UgzctO3YrpuEdIpd8yF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "F72593JOPsYeNhmWbmY9p_TGKSg",
+                    "id": "UgzctO3YrpuEdIpd8yF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Yang paling bikin jengkel tuh sudah Monet tiba tiba ambyar karena dibilang konten berulang/konten ulang. Tapi nggak ditunjukkan konten mana mana man",
+                        "textOriginal": "Yang paling bikin jengkel tuh sudah Monet tiba tiba ambyar karena dibilang konten berulang/konten ulang. Tapi nggak ditunjukkan konten mana mana man",
+                        "authorDisplayName": "@KiWarjiyoHP",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/xlVFBIxaNIex1L_y3VHotlgmMpa9KRJLGP817paz_LR28SVSOs0JszTTbmt2BeH5b0AKvsxNltE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KiWarjiyoHP",
+                        "authorChannelId": {
+                            "value": "UCkD6wAKLLehDf_3fXWaDuNw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T06:37:06Z",
+                        "updatedAt": "2025-03-15T06:37:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mY5yPeqfR-KefLAKXdkl7a2qpwc",
+            "id": "UgwxqItPLLmVo2H-Erh4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "GBs8IuDQ9ck",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LvA14AEE_IyZh23pgqxJ9hdzv0w",
+                    "id": "UgwxqItPLLmVo2H-Erh4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "GBs8IuDQ9ck",
+                        "textDisplay": "Mantap  ilmunya bang",
+                        "textOriginal": "Mantap  ilmunya bang",
+                        "authorDisplayName": "@Jhopald",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/_x70ua7cq44aNCsnu56D6y0gpIuGCBLO5aHfXtLzgyN7biJFHRwfgWjumTl9uwztnJWIPXQl=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Jhopald",
+                        "authorChannelId": {
+                            "value": "UCj20dieiJ-Gwq_-2Sk5iRZg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-15T03:12:27Z",
+                        "updatedAt": "2025-03-15T03:12:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IClTryObloql4giU1WH5rLk65yU",
+            "id": "UgzzykN221KD5FnQTr14AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oL-I7Ey_QE1_WQVP2_vBPN-zTGo",
+                    "id": "UgzzykN221KD5FnQTr14AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "https://youtu.be/3GFff53BSSU?si=s7J_GeLit_RMwfpF",
+                        "textOriginal": "https://youtu.be/3GFff53BSSU?si=s7J_GeLit_RMwfpF",
+                        "authorDisplayName": "@KalselBersinergi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9UxnvSEs8JwuJDQ-mV6u1Ei1FmVZ81IqmMkbvtyEEUuGBEHgOsXdETp1IQUaanB9mRA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KalselBersinergi",
+                        "authorChannelId": {
+                            "value": "UC7qY_A82KKTEISHOkhrKXDQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T19:10:36Z",
+                        "updatedAt": "2025-03-14T19:10:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wuJf8hLMvYpaWsP0QI9efzUExq4",
+            "id": "Ugx0Wf4bp-uHW_3PloJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "XwjVP98dCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HUM30DJjyM85CU32sdrnEAOifE8",
+                    "id": "Ugx0Wf4bp-uHW_3PloJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "XwjVP98dCCs",
+                        "textDisplay": "Aku terlanjur pake toko crypto ka, kira2 aman gak ya?",
+                        "textOriginal": "Aku terlanjur pake toko crypto ka, kira2 aman gak ya?",
+                        "authorDisplayName": "@IsagiYoichi.-uz2xy",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/N5NBnnsd034auG9LHcW2DmAQ8_D1J19K8flalLiHZDHk5E8qBxcLEp-9Bwhfu6TnmxC-C64t=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@IsagiYoichi.-uz2xy",
+                        "authorChannelId": {
+                            "value": "UCRVKfIQHDnygpUY7EB0icgg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T19:04:46Z",
+                        "updatedAt": "2025-03-14T19:04:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "V1siaqcz_-MRLT3cvCF0ncWkZSY",
+            "id": "UgyRBbEXHopnAclq8xp4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HWcIEDS0kzeGEGLEDXe7ZNDC92w",
+                    "id": "UgyRBbEXHopnAclq8xp4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Terimamasih ❤❤",
+                        "textOriginal": "Terimamasih ❤❤",
+                        "authorDisplayName": "@TBFarm-id",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/fdCj68HqfvFbod0liy3IbcoOlbTnlFtdIOH1qpjD8xya2CA9X_lFh0pJcOY1zQ33u2W2URWV=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@TBFarm-id",
+                        "authorChannelId": {
+                            "value": "UCnVJpX3Lek1YqB0wMeErQbQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T18:02:49Z",
+                        "updatedAt": "2025-03-14T18:02:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "M2IASAKG2dORC1HlArn-zP6h068",
+            "id": "UgzC-auhdIjrmu6sGBB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XDfgtKvnE6x1d_Y9aqQwWJqNveA",
+                    "id": "UgzC-auhdIjrmu6sGBB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Kak gua udah 1.43rb subcribers dari 3 video 6 tahun yang lalu. Kalo di lanjutin kira kira masih bisa gk ya.?",
+                        "textOriginal": "Kak gua udah 1.43rb subcribers dari 3 video 6 tahun yang lalu. Kalo di lanjutin kira kira masih bisa gk ya.?",
+                        "authorDisplayName": "@yosuach3917",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ntHyTULKsSCuQMFqU8SypPImHn1F5kqwm7VTl-hh5tyA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@yosuach3917",
+                        "authorChannelId": {
+                            "value": "UCohok3_20JF019hLhliPRFQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T17:14:00Z",
+                        "updatedAt": "2025-03-14T17:14:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "O2jpUjtR3Myd1FDE2w0z5jtC780",
+            "id": "UgyUqDxdKAr3hyKmAyR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nfkI-2hjEWF1bBQlcaECVcduMYw",
+                    "id": "UgyUqDxdKAr3hyKmAyR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Terimakasih buat ilmunya bang❤❤",
+                        "textOriginal": "Terimakasih buat ilmunya bang❤❤",
+                        "authorDisplayName": "@AidOfficial-45",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ZjrecxYCVNj-D6-4k0sND1Ox_jWgoAROe5VZw1XKvs88fWNeiYrex_QuEb4wsOr6ZuAfSW1K5Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AidOfficial-45",
+                        "authorChannelId": {
+                            "value": "UCLBDGlZUel4EyA8Tr1UXaEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T17:03:44Z",
+                        "updatedAt": "2025-03-14T17:03:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Xr0WajoLyk7TSdrhimcgXzV1KB4",
+            "id": "UgyLtMAgoMwS0lcEBN94AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Y9MCJCtx837ljdwR1ZFXLzSzpGo",
+                    "id": "UgyLtMAgoMwS0lcEBN94AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "sebenernya yang penting konsisten aja si nnti kualitas video bakal naik dengan sendri ny, cuma ya karna gua malas maknya channel gw berhenti disitu2 aja , tp semoga tahun ini bisa monet aamiin",
+                        "textOriginal": "sebenernya yang penting konsisten aja si nnti kualitas video bakal naik dengan sendri ny, cuma ya karna gua malas maknya channel gw berhenti disitu2 aja , tp semoga tahun ini bisa monet aamiin",
+                        "authorDisplayName": "@akbarliarian02__",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/VBge5tKQOXd72FdfT9npstr8-Yldz1bprryBvzYGKzZ6gaewcDvVct5hyWb07GEqTr_EP1uj=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@akbarliarian02__",
+                        "authorChannelId": {
+                            "value": "UCt0uaUrPv2oHYjjAb_Hf6Ig"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-03-14T16:16:23Z",
+                        "updatedAt": "2025-03-14T16:16:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CC0OZLw-lNyXufU9-1ori_fMgsA",
+            "id": "UgwVv4Nv1RnAsSQasEF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wXZRAUtdtJtxMs-_QtlQG47P_KE",
+                    "id": "UgwVv4Nv1RnAsSQasEF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "mau lapor bang aku barusan upload vlog ep#1 nanti mau share seterusnya disini, semoga bisa konsisten :)",
+                        "textOriginal": "mau lapor bang aku barusan upload vlog ep#1 nanti mau share seterusnya disini, semoga bisa konsisten :)",
+                        "authorDisplayName": "@aaiyuro",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/MExxQcjtDvtMvFcXlR2ltQ1_JqpOH_nKYS6tnCvZn9Yf1M3nDOadX7GOQvvb5Yp5n4XYPsnqaUU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@aaiyuro",
+                        "authorChannelId": {
+                            "value": "UC1c6yOj2ZWCQ5OSAk5sPyLw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-03-14T16:14:48Z",
+                        "updatedAt": "2025-03-14T16:14:48Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1aeCt1kIsc4e7WXHdD9XRqg3i7E",
+            "id": "UgzZMicL546AvdIJlAF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_EGWC2LFRuYrH4KJlXCtZnez1Jo",
+                    "id": "UgzZMicL546AvdIJlAF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Bagaimana tips dengan buat konten youtube cover lagu🙏",
+                        "textOriginal": "Bagaimana tips dengan buat konten youtube cover lagu🙏",
+                        "authorDisplayName": "@taaukechannel",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/irhycBrA1iDa4EkqbSaLCcu3fW0zvSGATRbnH-jJCPDXvFHNPtG-qQUsqbGWIkgpAgLZDawt=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@taaukechannel",
+                        "authorChannelId": {
+                            "value": "UCJG6va3StQMJ03bT1DsPD3Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T14:15:38Z",
+                        "updatedAt": "2025-03-14T14:15:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "r8JIJHw4DlkISSvGIJIDDinOOVw",
+            "id": "Ugx_uDcBZZQOz_P25194AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XNMs-fQE4xFuKYbM9SbE3EfobzY",
+                    "id": "Ugx_uDcBZZQOz_P25194AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "https://youtube.com/shorts/zYzYFU9G2qk?si=pUQKAesATaXiM7kW",
+                        "textOriginal": "https://youtube.com/shorts/zYzYFU9G2qk?si=pUQKAesATaXiM7kW",
+                        "authorDisplayName": "@Satyafelix120",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mA2AVFV-qavNRylO-8a4Gy-Z6PmCR1F_ZClH9D2RWiGO4aLpoBwvnFubP3fe06ChSeLA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Satyafelix120",
+                        "authorChannelId": {
+                            "value": "UCIPm86bUg_rdjHinSXKUa0w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T14:07:21Z",
+                        "updatedAt": "2025-03-14T14:07:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pEbUy9ZpqbSMlysUISHO4-rddBo",
+            "id": "UgyqEs2BURbO2xKVUX54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xf8nJ1VcAadxJeJJ20H4-13W9v4",
+                    "id": "UgyqEs2BURbO2xKVUX54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "🌹🌹🌹🌹🌹",
+                        "textOriginal": "🌹🌹🌹🌹🌹",
+                        "authorDisplayName": "@Penguruskreatifdanbijak",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ovuZrB54H1DiLHUiPgycMb9pvHlwN9gOZx4C2STm-g-_piQT5GqL4UuLnXziozz9_d0t-JspWQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Penguruskreatifdanbijak",
+                        "authorChannelId": {
+                            "value": "UCJYSV_4OIXymldMlGWeSQtA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T08:58:47Z",
+                        "updatedAt": "2025-03-14T08:58:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5pJmzSoIrLWBEngejhP_4I-Gq4U",
+            "id": "Ugz72dC-dkcQj6FeRxJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NoU2H0ZIub6KRjCf5lrM5gRVemA",
+                    "id": "Ugz72dC-dkcQj6FeRxJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Berkat DO𝐑A7𝟩 saya memperoleh dana untuk memulai usaha yang saya impikan.",
+                        "textOriginal": "Berkat DO𝐑A7𝟩 saya memperoleh dana untuk memulai usaha yang saya impikan.",
+                        "authorDisplayName": "@Hadisdjfh",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nKOqIVC_wjCGDpD96rhr1ZSOIcdvmYOi5pFdtljKl4eJy8AVLi8mdgjfZHrXpiFTZecw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Hadisdjfh",
+                        "authorChannelId": {
+                            "value": "UCUk5ng5dDP4RhkbZDnfmSeQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:58:53Z",
+                        "updatedAt": "2025-03-14T07:58:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "v8LyXZ8UXJvH1DK_G-C_OZ7LM2A",
+            "id": "UgwdKZO8s7aKGiNRoM54AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "rbtQLx2cPPf21GcDaUx3NW0Q47c",
+                    "id": "UgwdKZO8s7aKGiNRoM54AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Bermain di 𝘿ОRА𝟩𝟳 membuat saya mampu membayar hutang yang menumpuk.",
+                        "textOriginal": "Bermain di 𝘿ОRА𝟩𝟳 membuat saya mampu membayar hutang yang menumpuk.",
+                        "authorDisplayName": "@Halinakjhj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhOsVvyiOR2DKy9B1rrzX-He2qQZ1jqeEpHRZoUYxTFaBeYJh5jM0kO6i-v0IKU5wb0w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Halinakjhj",
+                        "authorChannelId": {
+                            "value": "UCzcjIF8_K4271LbNkf6EZgw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:58:38Z",
+                        "updatedAt": "2025-03-14T07:58:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2YQ7f0pAlchIHElq889INSfq3PU",
+            "id": "Ugz-Txls7XUY5nDcswN4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xf4dC3rtykq_2D62JLFgUv0Hhxw",
+                    "id": "Ugz-Txls7XUY5nDcswN4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Keuntungan melimpah di 𝘋E𝘞𝘈𝘋OЯ𝐴, bener-bener puas banget!",
+                        "textOriginal": "Keuntungan melimpah di 𝘋E𝘞𝘈𝘋OЯ𝐴, bener-bener puas banget!",
+                        "authorDisplayName": "@Amstrongkfjgg",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n2udBzeYBteVO94AOvACDKqyHN4sBTqV2YenVzO3Y2Ic5h7sd9c1UhQi-g7V9kvb_L3A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Amstrongkfjgg",
+                        "authorChannelId": {
+                            "value": "UC5J3ck5tKO-yo3coElLAUMw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:58:27Z",
+                        "updatedAt": "2025-03-14T07:58:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "i1CWZCvQWKx7tCY2lTWlidCmUM4",
+            "id": "Ugx75NLr57SzLjcZCQR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jM8xpliNu_3z5DJD5EGPP71_CgI",
+                    "id": "Ugx75NLr57SzLjcZCQR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Hasil dari 𝐃𝙊𝑅A77 memudahkan saya mendapatkan modal usaha tambahan.",
+                        "textOriginal": "Hasil dari 𝐃𝙊𝑅A77 memudahkan saya mendapatkan modal usaha tambahan.",
+                        "authorDisplayName": "@Faisalfshjk",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n1UKC1gAN-YFZhCUog2kUuCJSGEwpbZCeeUyGChCtqFwdMgMoUCpJptjOM5HdMhNgHCg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Faisalfshjk",
+                        "authorChannelId": {
+                            "value": "UC_6f3GgPd9VSG3pFqv0OA4Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:58:24Z",
+                        "updatedAt": "2025-03-14T07:58:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pPPtBxrSKcZpIos2psRpc0Zw3zQ",
+            "id": "UgwUEEDpQ1RdjwFz--J4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ra1MhGLr0qzPA1_Gw2ALePIuB9I",
+                    "id": "UgwUEEDpQ1RdjwFz--J4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Bermain di 𝘋O𝘙𝐀𝟽𝟳 membantu saya bertransformasi, dari petani kecil jadi pengusaha agribisnis.",
+                        "textOriginal": "Bermain di 𝘋O𝘙𝐀𝟽𝟳 membantu saya bertransformasi, dari petani kecil jadi pengusaha agribisnis.",
+                        "authorDisplayName": "@Fajrihakgj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nj52r54LP66EYFqP7Inb6jhP8S_q3e1BbIP1asn4ZSRuEPMPd_TcQnDlhRVA6szGI8QQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Fajrihakgj",
+                        "authorChannelId": {
+                            "value": "UCgkdpTVzA3nUHnYGZh0kbbw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:58:23Z",
+                        "updatedAt": "2025-03-14T07:58:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "N-IQZEErSORROzPvU2R5MQbO8XY",
+            "id": "UgwnDG7uPQfi6A_KI1F4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PcT1r5UoHlO5nXrnquRoH1pKnts",
+                    "id": "UgwnDG7uPQfi6A_KI1F4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "stop komen judol!!",
+                        "textOriginal": "stop komen judol!!",
+                        "authorDisplayName": "@mei_ryoskyy",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/MVjdscRHqlxXXh8HSlyqwHoZrWOSGKSMVXCSZUNWowfPP1Ps0A21QY94bC4qdUn5VIlUGCdT=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@mei_ryoskyy",
+                        "authorChannelId": {
+                            "value": "UCSkNhzjW4VcJkP0WsFBHsSA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:53:26Z",
+                        "updatedAt": "2025-03-14T07:53:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RHNcg6MvoqdNcMGG15zHJ0QRGe8",
+            "id": "UgxvcJldFBKNFc0Ar7l4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "GBs8IuDQ9ck",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nE0Wquj6MCVncGEjfPlaPYqbamc",
+                    "id": "UgxvcJldFBKNFc0Ar7l4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "GBs8IuDQ9ck",
+                        "textDisplay": "berappa uangmu ko",
+                        "textOriginal": "berappa uangmu ko",
+                        "authorDisplayName": "@LuviCorp",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/kx6IlngdWNTJZHXcGsh99Ncyn5wcALg0wH7BfiSiUpFGQDA7VBw1k15BcPnnA0xKI9nLbi21=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@LuviCorp",
+                        "authorChannelId": {
+                            "value": "UCzrde6RaIDASu6iMFWUZGgg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T07:39:17Z",
+                        "updatedAt": "2025-03-14T07:39:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "VSItgk4yjLN1dDsf3VxgoCBYc5w",
+            "id": "UgzPgaYvESI7ymyDX614AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "cLTFS6ecvVo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TKEYiOJ4s4HPOIJyhtHUXpAIOzY",
+                    "id": "UgzPgaYvESI7ymyDX614AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "cLTFS6ecvVo",
+                        "textDisplay": "Sangt membantu",
+                        "textOriginal": "Sangt membantu",
+                        "authorDisplayName": "@Kekayaan-A",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/MMFcp-dhfA3wRKyM1DDaJ_OEdSH0_TTRPRAePkas0OHNcAR8OwStv_P8YP2o0Sq3Lb5uiAMp=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Kekayaan-A",
+                        "authorChannelId": {
+                            "value": "UCWWx4wQMML1Y1u5lQmQXh4w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T06:18:33Z",
+                        "updatedAt": "2025-03-14T06:18:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7M49f1YjeCRWHO2h2ueFpXKOWfw",
+            "id": "UgynPSJk5vN8PadsxXx4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GXOj6F3ZYnZJYzIjaPuTAXyzcC0",
+                    "id": "UgynPSJk5vN8PadsxXx4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Bener dan sepemikiran bro! Menurutku YouTube lebih menjanjikan dan menantang untuk harus dicoba ya ga?",
+                        "textOriginal": "Bener dan sepemikiran bro! Menurutku YouTube lebih menjanjikan dan menantang untuk harus dicoba ya ga?",
+                        "authorDisplayName": "@HENDRISMEDIA",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/DKqZ6nezLVR7VAV5D46CFT5fjBN6xWQbPXvELHfqZNqIN_kdkEFEOuWwVg6w44gbZ79jADO83g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@HENDRISMEDIA",
+                        "authorChannelId": {
+                            "value": "UCVvf1FlkDyZQVsGIcGj-9Vw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-03-14T05:29:36Z",
+                        "updatedAt": "2025-03-14T05:29:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "FIRfyk70Y2aL0GGds57xfItm5pA",
+            "id": "Ugx7UBwwJL88kuxa06B4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8jHjozAvh4OzH7-In3VaFDsua9U",
+                    "id": "Ugx7UBwwJL88kuxa06B4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Nggak nyesel coba main di 𝐀𝘌Я𝙊𝟾𝟪,hasilnya gacir banget!",
+                        "textOriginal": "Nggak nyesel coba main di 𝐀𝘌Я𝙊𝟾𝟪,hasilnya gacir banget!",
+                        "authorDisplayName": "@HasanJanot",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k6ik9k6NPqHs0kvMwv9SpZyE9qUk9AxeJZJ9_zucX5-Srt4Jkr8so6gIcmOMBS08yveQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@HasanJanot",
+                        "authorChannelId": {
+                            "value": "UCrx6clbPRz7tVOHTlTTMZmw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:51Z",
+                        "updatedAt": "2025-03-14T04:12:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XuxiidryY-Y2mhgwHjQDFn5hdW8",
+            "id": "Ugwf0ZkiFrME8wuUBMV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "a6bc7kQ4D9sf0CdelyfJa7JVjzs",
+                    "id": "Ugwf0ZkiFrME8wuUBMV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "AЕRO𝟴𝟪menawarkan platform yang terus berkembang berdasarkan masukan pengguna.",
+                        "textOriginal": "AЕRO𝟴𝟪menawarkan platform yang terus berkembang berdasarkan masukan pengguna.",
+                        "authorDisplayName": "@ebelakJosef",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kDpTl9uk7iXnTpPGxm4klKt9IKbnyF2TJx9K9dIvLfSxjuMAIbmkG6AnLgI0W4GlDF3w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ebelakJosef",
+                        "authorChannelId": {
+                            "value": "UCeFQ2HgVh_TZnAvA3Jq9M3Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:47Z",
+                        "updatedAt": "2025-03-14T04:12:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "k0FutpCF0UUiIHu0q6GG2u066AI",
+            "id": "Ugxo-AeBUEMSeInftmV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "K7Lv9wYzIdMXxSV8ybmCa_4Tn6g",
+                    "id": "Ugxo-AeBUEMSeInftmV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Bagi yang mencari suasana baru, 𝘈𝐸𝘙𝙊8𝟪-bisa dicoba.",
+                        "textOriginal": "Bagi yang mencari suasana baru, 𝘈𝐸𝘙𝙊8𝟪-bisa dicoba.",
+                        "authorDisplayName": "@HeruJanene",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_krOvw37jTzdXxKx9LLxqthA0TYsfEMIBqW17GhNiJZj6fAXWZX5VrvzLyMIgKzxEDtDw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@HeruJanene",
+                        "authorChannelId": {
+                            "value": "UClCLFQgYubPOvke8wyywDuQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:36Z",
+                        "updatedAt": "2025-03-14T04:12:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zl3zswzSYXrNvDHtaifA5XjUGgo",
+            "id": "UgxKq8BE4_aXpQS-BXh4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "73lMmQMb-d9s9YLsMl0tutU9igA",
+                    "id": "UgxKq8BE4_aXpQS-BXh4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Bikin penasaran banget, dapet menang besar cuma dalam sekali coba di 𝘼𝘌𝘙О𝟴𝟾!",
+                        "textOriginal": "Bikin penasaran banget, dapet menang besar cuma dalam sekali coba di 𝘼𝘌𝘙О𝟴𝟾!",
+                        "authorDisplayName": "@JirIraj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JirIraj",
+                        "authorChannelId": {
+                            "value": "UCbZAR_PdoDfzkzo2DwZbmxQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:36Z",
+                        "updatedAt": "2025-03-14T04:12:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "KVegLo33NjfZETTChr_lc-qtIok",
+            "id": "UgxvYZ4_Vml2soWmqTJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MADiP99hankOeTR-C2X-eNRTdo0",
+                    "id": "UgxvYZ4_Vml2soWmqTJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "𝐴𝘌Я𝐎𝟾𝟪menyediakan platform untuk relaksasi dan hiburan.",
+                        "textOriginal": "𝐴𝘌Я𝐎𝟾𝟪menyediakan platform untuk relaksasi dan hiburan.",
+                        "authorDisplayName": "@FakriJoaquin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEK1kbF7CC8jzmxy5AOsGznV0V8U7waLwCm7EBugLuJA6Zhn2wYaW4DejMrvW3aNbXFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@FakriJoaquin",
+                        "authorChannelId": {
+                            "value": "UCJNaWSSj231D9QZshZF8fTw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:36Z",
+                        "updatedAt": "2025-03-14T04:12:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yZd9qNfXBEmhXdoWpY2Fx6V-ajc",
+            "id": "UgwMBFra7pDUkTYMdOJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OBut_k5OC0ohDqrsqS-KE2kqe4E",
+                    "id": "UgwMBFra7pDUkTYMdOJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Ternyata keberuntungan ada di 𝐴𝘏𝐌𝘈𝐷T𝘖TO,langsung dapet menang besar tanpa diduga!",
+                        "textOriginal": "Ternyata keberuntungan ada di 𝐴𝘏𝐌𝘈𝐷T𝘖TO,langsung dapet menang besar tanpa diduga!",
+                        "authorDisplayName": "@JirIraj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@JirIraj",
+                        "authorChannelId": {
+                            "value": "UCbZAR_PdoDfzkzo2DwZbmxQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:30Z",
+                        "updatedAt": "2025-03-14T04:12:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "me9k7JTzyWFpCMJ1TR82jo3UN_c",
+            "id": "UgxUc2PZs1388gZ_Zvd4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "EVvvnPOg8Iz_dCjg7FcF1XdL_C4",
+                    "id": "UgxUc2PZs1388gZ_Zvd4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Kece badai! Main di А𝘎𝐔𝐒T𝙊𝙏𝘖-lancar, cuan juga lancar jaya!",
+                        "textOriginal": "Kece badai! Main di А𝘎𝐔𝐒T𝙊𝙏𝘖-lancar, cuan juga lancar jaya!",
+                        "authorDisplayName": "@IncessJacque",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k_IjgFMbINbx5xvHBwFtpyDGBwwZBrEd3LJ18hcUJGE6fDCupbLP5jmFMqT8TwQOJiWQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@IncessJacque",
+                        "authorChannelId": {
+                            "value": "UCGJ9ULdXD4c-e-tSCoKgcww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:30Z",
+                        "updatedAt": "2025-03-14T04:12:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zatphapeLFSD8NTAou1-C6IoXFg",
+            "id": "UgyYGnl9zS-mE3qn4lN4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oLSbQYO1DNqcAxDAGW1oECPcaP0",
+                    "id": "UgyYGnl9zS-mE3qn4lN4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Di D𝘌𝙒А𝐃𝙊𝑅А menyediakan modal yang mendukung rencana bisnis saya.",
+                        "textOriginal": "Di D𝘌𝙒А𝐃𝙊𝑅А menyediakan modal yang mendukung rencana bisnis saya.",
+                        "authorDisplayName": "@Kushedyaggfhj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9UxnvSEs8JwuJDQ-mV6u1Ei1FmVZ81IqmMkbvtyEEUuGBEHgOsXdETp1IQUaanB9mRA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Kushedyaggfhj",
+                        "authorChannelId": {
+                            "value": "UCP2Xt3Fphx-dmHU9t5D-zUg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:28Z",
+                        "updatedAt": "2025-03-14T04:12:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "cJYdcmCpOVoxcIuqjv9L9LRI4Ww",
+            "id": "Ugx0_AkSWaqXxG7YAyd4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "oirGBCBMmauI1peU_numzLgwUfo",
+                    "id": "Ugx0_AkSWaqXxG7YAyd4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Denger-denger orang banyak menang, akhirnya aku coba, dan ternyata rezeki juga datang di 𝘋𝐸𝐖AD𝙊𝑅𝘼!",
+                        "textOriginal": "Denger-denger orang banyak menang, akhirnya aku coba, dan ternyata rezeki juga datang di 𝘋𝐸𝐖AD𝙊𝑅𝘼!",
+                        "authorDisplayName": "@Leletshfhs",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n1hHNFfhXBR4BASbMAHa8CRJOT-_7vV_OG-i3RKWwWIZ-j-3B7Fl4iapOfpamSrb2qYA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Leletshfhs",
+                        "authorChannelId": {
+                            "value": "UC85jteGSrNO9QwTwAO_VPqw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:17Z",
+                        "updatedAt": "2025-03-14T04:12:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GOl7cEdwJpFX8GcfbrRq2hDwJts",
+            "id": "UgwUhT4cS3EZlediPzp4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eg0x6kZMURYcnugi_BNjge-YfoM",
+                    "id": "UgwUhT4cS3EZlediPzp4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "𝘋𝐸W𝘈𝘿𝑂𝑅𝘈 menyediakan pengalaman daring yang mudah dan tanpa repot.",
+                        "textOriginal": "𝘋𝐸W𝘈𝘿𝑂𝑅𝘈 menyediakan pengalaman daring yang mudah dan tanpa repot.",
+                        "authorDisplayName": "@Kristinjfssk",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_njGmxKfoPrBMaI_BcpyasarYRb-fAoAoQbz4AUVTUbPx-Uvg-WVnjh5erCqOgSOACzYA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Kristinjfssk",
+                        "authorChannelId": {
+                            "value": "UCLhwUIMQPuqaIdlDkhEM3IQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:14Z",
+                        "updatedAt": "2025-03-14T04:12:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Z9QDD7aY6Dv9eqGQo_iqyrQfHBw",
+            "id": "UgxdaQQK3Q2wKGgeyBV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "x8cebi5gdZZ3bw47wn9XP095QGg",
+                    "id": "UgxdaQQK3Q2wKGgeyBV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Aku baru aja coba, dan langsung dapet jakpot gede di 𝘋𝘖𝙍A𝟽𝟩. Rasanya gak percaya, tapi itu nyata!",
+                        "textOriginal": "Aku baru aja coba, dan langsung dapet jakpot gede di 𝘋𝘖𝙍A𝟽𝟩. Rasanya gak percaya, tapi itu nyata!",
+                        "authorDisplayName": "@Korwassjda",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nzTtI6dXn-Cu4_vvTKcrP230DTqZvqC3fSmF5X7oUDAJmoMTco-_b3LV3y5NsoSbrKww=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Korwassjda",
+                        "authorChannelId": {
+                            "value": "UCBUl7fAX_M4hQva3o88QsCg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:04Z",
+                        "updatedAt": "2025-03-14T04:12:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "E1vBs8C2SApmA0vliH8jgXBAvN0",
+            "id": "UgzE9e_jqy9_USaGF9d4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mlNiyjNWG3ADK61a-meEhlfOPk8",
+                    "id": "UgzE9e_jqy9_USaGF9d4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Hasil di 𝘿𝙊ЯА𝟳7 membuat saya merasa lega karena hutang telah terbayar.",
+                        "textOriginal": "Hasil di 𝘿𝙊ЯА𝟳7 membuat saya merasa lega karena hutang telah terbayar.",
+                        "authorDisplayName": "@Karjoajkla",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kedlxAby9tBfPJkXZ8EQhn6bmlgHTDhb0RGpWJWrn_Xk7rZowkOmPXdaOCOCTpsF7fXg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Karjoajkla",
+                        "authorChannelId": {
+                            "value": "UCnRSccP541oAiqTTBSRHRVg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:03Z",
+                        "updatedAt": "2025-03-14T04:12:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "QLaYWopJw0-MYD569u44aIv76EY",
+            "id": "UgxzVXIgGT5UME9xrCR4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LeM9r1rFf7U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "IqJiWjoWJrhHaqXnJXQMZmeC6u4",
+                    "id": "UgxzVXIgGT5UME9xrCR4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LeM9r1rFf7U",
+                        "textDisplay": "Hasil di 𝘋OЯ𝐴𝟳𝟽 membuat saya bisa menutup hutang dengan lancar.",
+                        "textOriginal": "Hasil di 𝘋OЯ𝐴𝟳𝟽 membuat saya bisa menutup hutang dengan lancar.",
+                        "authorDisplayName": "@Kyuuaaldf",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_njGmxKfoPrBMaI_BcpyasarYRb-fAoAoQbz4AUVTUbPx-Uvg-WVnjh5erCqOgSOACzYA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Kyuuaaldf",
+                        "authorChannelId": {
+                            "value": "UC-eADuUTrBbLSedUvW5qkSg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T04:12:02Z",
+                        "updatedAt": "2025-03-14T04:12:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "APSYrmkXTPcm7yJXgGKyQ3vXevQ",
+            "id": "UgwPJJtquBTOP5g4x6F4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "CV5XGq5rp3U",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OM-QjvyxAirXsO788a6_iuHryzM",
+                    "id": "UgwPJJtquBTOP5g4x6F4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "CV5XGq5rp3U",
+                        "textDisplay": "Pesan nabi Muhammad tuntutlah ilmu sampai liang lahat, artinya manusia harus slalu belajar dan belajar ,karena ilmu terus berkembang.",
+                        "textOriginal": "Pesan nabi Muhammad tuntutlah ilmu sampai liang lahat, artinya manusia harus slalu belajar dan belajar ,karena ilmu terus berkembang.",
+                        "authorDisplayName": "@adyputra7271",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lZsD-W2X-NqDeVqHAPXGvrT29UQ_PywFz6b9ek7pMhcg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@adyputra7271",
+                        "authorChannelId": {
+                            "value": "UCBOAsKNa5NAZcCKxDXvWESg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T02:02:52Z",
+                        "updatedAt": "2025-03-14T02:02:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3qXQCFXDmihjXJZODToHzuS2AwY",
+            "id": "UgyyeL_aj2eXBEswCHF4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aODygznrn8S5RpnG9EEydlrz85A",
+                    "id": "UgyyeL_aj2eXBEswCHF4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Saya sudah dapat 1 tahun tp masih dapat  200 kebawah.bantu saya x kk",
+                        "textOriginal": "Saya sudah dapat 1 tahun tp masih dapat  200 kebawah.bantu saya x kk",
+                        "authorDisplayName": "@wiwikagustini-pv7gj",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/v05xlQj8IIXaulPdAYy32uiHBR2RIjdLeZdqHGWS3rg0P1TR7pBSAv9aliHf4HFsaLiVOD-IUg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@wiwikagustini-pv7gj",
+                        "authorChannelId": {
+                            "value": "UC29lr2t7iAzs0VzsI8DMDvw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-14T01:50:41Z",
+                        "updatedAt": "2025-03-14T01:50:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xu4nrBreL3rZrN6ePbnob9qIt58",
+            "id": "Ugyuc1u0Qv2Irx1_HCJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0QFzU-OSimWqSlAbx15ANXzpccM",
+                    "id": "Ugyuc1u0Qv2Irx1_HCJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Semangat , baru 3 video ini 😁👍🙏",
+                        "textOriginal": "Semangat , baru 3 video ini 😁👍🙏",
+                        "authorDisplayName": "@GaluhKids",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LflnCq_XjNacPz86yn69KOSBLl41YrGcYdf0aSD_rbIepDauIgNDhRtYiW6PgtezUU8umomEhw0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@GaluhKids",
+                        "authorChannelId": {
+                            "value": "UC0ZycT3qZ6qLIYCtSLW3sCg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T23:56:11Z",
+                        "updatedAt": "2025-03-13T23:56:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Q5Q806DIsF5o89c6xTvMLUUrxDk",
+            "id": "UgxCuDzo8YWJ-n6fia14AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SC8Z2P8aS30ovk2nKO34GKj03hw",
+                    "id": "UgxCuDzo8YWJ-n6fia14AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Slam bang pemula ikut belajar",
+                        "textOriginal": "Slam bang pemula ikut belajar",
+                        "authorDisplayName": "@TernakNdesoChannel",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/uhXHGe7Zzdt0W5DzO56_q10Rkh7RySx9SIvPgmupzwXTayBdWPX4Jheqoq6zcMFAqQ0pu0ewog=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@TernakNdesoChannel",
+                        "authorChannelId": {
+                            "value": "UC7vGFj2OG3EUxq2I43zeF0A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-03-13T18:07:42Z",
+                        "updatedAt": "2025-03-13T18:07:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "AeedhvIhUx3RuSHJgx6Xkiz6Lkk",
+            "id": "Ugy6MlFudofjlne8SFB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xDmySoKLVe1W1M1I7D98w1LVE4w",
+                    "id": "Ugy6MlFudofjlne8SFB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Mantapp,,tetap semangat semua,,lanjut jalan saja 😅😁",
+                        "textOriginal": "Mantapp,,tetap semangat semua,,lanjut jalan saja 😅😁",
+                        "authorDisplayName": "@bulhamandi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/4_BiJyknaquRkG8pMQ0cZmezUF0xjBLRycDvPYbs12FDYe9oWUVYK3qBfUMnk4i-kuSuXvFI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@bulhamandi",
+                        "authorChannelId": {
+                            "value": "UC_PL1P-rKUnOQi-QmYc8e2w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T16:33:48Z",
+                        "updatedAt": "2025-03-13T16:33:48Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lp9-5Iqnjab6Y9d1ojYFy2gmGkM",
+            "id": "UgyCCuSe7bTFtOkdbMl4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "AmLqH0j9e4vwH9cEVI6rTTY0Md4",
+                    "id": "UgyCCuSe7bTFtOkdbMl4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Gua sih pengen jadi vloger kehidupan gue sendiri.. yaa kayak vlog liburan ke pantai dan lain lain.\n Namun apa daya hp gue yg kameranya burem :(",
+                        "textOriginal": "Gua sih pengen jadi vloger kehidupan gue sendiri.. yaa kayak vlog liburan ke pantai dan lain lain.\n Namun apa daya hp gue yg kameranya burem :(",
+                        "authorDisplayName": "@rizyfdhh",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/9Yiwl3xXl2BBCyop987F0jE7bwkEn7v41oLp41CCy3IhmbMkx-qJ2SKN2q_ZjSe8CzEWxsPW=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@rizyfdhh",
+                        "authorChannelId": {
+                            "value": "UCPmSR2aSmb-UnMO8jIkqiJw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2025-03-13T16:33:00Z",
+                        "updatedAt": "2025-03-13T16:33:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "95O40cgUKkvVrtaE9xy9-zfJpsw",
+            "id": "Ugy5Xbe8Nq_JBX76XAp4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "c9kzg9QbOuV-5UX3Thuk5l2MjWk",
+                    "id": "Ugy5Xbe8Nq_JBX76XAp4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Saya baru buat chenel YouTube bang.. moga aja sama sama berkembang",
+                        "textOriginal": "Saya baru buat chenel YouTube bang.. moga aja sama sama berkembang",
+                        "authorDisplayName": "@ucupKangean2025",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/4_WPENFrj44oH_D34WuectKI2AqdVhutGEnjs-RdauSseGlFFZZ_7FPQmJ1548leDtEEeGnnsEc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ucupKangean2025",
+                        "authorChannelId": {
+                            "value": "UCGPfO77Ftp7D3YFHCpJjeuQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T16:15:56Z",
+                        "updatedAt": "2025-03-13T16:15:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EUmRI0PUBMkM2M_deAgdU2--knk",
+            "id": "UgztngTwhEkGG5h_Aah4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Vq5n1clOq5BNw-VZDGdp1_kK-48",
+                    "id": "UgztngTwhEkGG5h_Aah4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "semangat untuk yang baru monetisasi.dan yang belum.memang harus bersabar.dan konsisten..salam sukses selalu.kreator.pemula 💪💪💪🙏",
+                        "textOriginal": "semangat untuk yang baru monetisasi.dan yang belum.memang harus bersabar.dan konsisten..salam sukses selalu.kreator.pemula 💪💪💪🙏",
+                        "authorDisplayName": "@aaii6881",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Rg7HRPe35L-voNuulbecai-1um4OyIlN7NakcxnsQFRqTBm3-htwyQJPniQik8PWtiY4W84iTw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@aaii6881",
+                        "authorChannelId": {
+                            "value": "UC7tDvuMh7-e_Qw_fqSWJyww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T15:34:55Z",
+                        "updatedAt": "2025-03-13T15:34:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lvpCvinfc-LmD8TEAhUnlRS292E",
+            "id": "UgwrF8zq6uWD5BneFKB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1zei7Fh0NBkMGS0D6uwZrybcp9g",
+                    "id": "UgwrF8zq6uWD5BneFKB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Semangat para pejuang",
+                        "textOriginal": "Semangat para pejuang",
+                        "authorDisplayName": "@eko4you",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/p9wgZPX2rV_a0PKbt244ElxW5CMMx8xvfS117mCdZwQsph1LCkrUwticB28ljN7OtPZuwzijlA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@eko4you",
+                        "authorChannelId": {
+                            "value": "UCik2xcTN9x-HqJvl-2aInWg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T14:49:37Z",
+                        "updatedAt": "2025-03-13T14:49:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "e81JXnpnV8L0KDHybt098RFaPVo",
+            "id": "Ugwfl5Rk3Yj1hr6FoSJ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "cLTFS6ecvVo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NAHNcL7vtZGz6ykc3efq76EJEB0",
+                    "id": "Ugwfl5Rk3Yj1hr6FoSJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "cLTFS6ecvVo",
+                        "textDisplay": "Cara buat GI mna itu yg jelaskan bro, langka langkanya seperti apa di aplikasi itu😂😂",
+                        "textOriginal": "Cara buat GI mna itu yg jelaskan bro, langka langkanya seperti apa di aplikasi itu😂😂",
+                        "authorDisplayName": "@NusaKenari",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/-tLADJQoG2Yl81JLtI6UEwY7AJLBYuZbPxxzDv89eXaRF02mTVqrct2WuDCA4yOWWdqpSger=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@NusaKenari",
+                        "authorChannelId": {
+                            "value": "UC6rprYPg9noiGKVQKLtJ_vA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T13:38:42Z",
+                        "updatedAt": "2025-03-13T13:38:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NZYuMOgzMqyyCY5gqAJ22BKyCpg",
+            "id": "UgwWnAkQOTdtRdRmd7p4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "LnSMKyZTnT8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zMObl7LWVr9J7KpwoEL1JA5PL7w",
+                    "id": "UgwWnAkQOTdtRdRmd7p4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "LnSMKyZTnT8",
+                        "textDisplay": "Ok",
+                        "textOriginal": "Ok",
+                        "authorDisplayName": "@AngGoback",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Srsdcyk031dwkHcfh_AZlCZjqBLBrQm-76gx7HasClczM5qbPT8PAIbVSpZOC0T7LoVUSrLiVQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AngGoback",
+                        "authorChannelId": {
+                            "value": "UCcWNK1YFjbclEO6HHzGD_3A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T09:25:18Z",
+                        "updatedAt": "2025-03-13T09:25:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "B2Zo4PkBUOifxL978JJ1jZ_M76s",
+            "id": "UgxWW9QJhw7rsafmJqN4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HgVvD4IHVVCQyM091NVuTgDASdE",
+                    "id": "UgxWW9QJhw7rsafmJqN4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Merasa sangat senang mendapatkan rezeki yang berkah dari А𝐻MА𝘿𝙏𝑂𝑇𝘖!",
+                        "textOriginal": "Merasa sangat senang mendapatkan rezeki yang berkah dari А𝐻MА𝘿𝙏𝑂𝑇𝘖!",
+                        "authorDisplayName": "@DorkasCrin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mMna0eqTxI40bTYxEwnQ3fotkoOzfA5jyFEak676LLhHAOgKlANhBVH3zso3FiQTxzlQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DorkasCrin",
+                        "authorChannelId": {
+                            "value": "UCPa8wsM8bUHFpCjsF3Xy90Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:59Z",
+                        "updatedAt": "2025-03-13T08:28:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "425GgMDg-Ha682dUiX_jgWnj_b8",
+            "id": "UgxWBrdYs3On7c0QSCZ4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gWDGWxZ3hZzYpvw2zMRfi-5weXE",
+                    "id": "UgxWBrdYs3On7c0QSCZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Setiap hari selalu ada kejutan di А𝙂U𝑆𝘛𝑂𝑇𝑂! Bikin penasaran!",
+                        "textOriginal": "Setiap hari selalu ada kejutan di А𝙂U𝑆𝘛𝑂𝑇𝑂! Bikin penasaran!",
+                        "authorDisplayName": "@RianAryn-u7b",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktgf3psRkAgKqgtBrHqhFCpTwn8CtlBGMPzkRqQ28gVAm_OArHXAgXv_ztPUnBWg1sIA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@RianAryn-u7b",
+                        "authorChannelId": {
+                            "value": "UCVcyR3bHKXj9lndizate5Fw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:56Z",
+                        "updatedAt": "2025-03-13T08:28:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hLGLZGaIdeX3YQA6aze_vvRQpSc",
+            "id": "UgzJvaZ4tEBDwuYq8Xd4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U0W-eJ0rhcTjww0x_iDMCrL2wMM",
+                    "id": "UgzJvaZ4tEBDwuYq8Xd4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Buat yang belum coba, kalian harus coba sekarang juga di 𝘼𝘌𝐑𝘖𝟴𝟪!",
+                        "textOriginal": "Buat yang belum coba, kalian harus coba sekarang juga di 𝘼𝘌𝐑𝘖𝟴𝟪!",
+                        "authorDisplayName": "@DorkasCrin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mMna0eqTxI40bTYxEwnQ3fotkoOzfA5jyFEak676LLhHAOgKlANhBVH3zso3FiQTxzlQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DorkasCrin",
+                        "authorChannelId": {
+                            "value": "UCPa8wsM8bUHFpCjsF3Xy90Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:53Z",
+                        "updatedAt": "2025-03-13T08:28:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "iZyjz3SNzb1jjEmmECq4uHy6NtU",
+            "id": "UgxOfP9uXN30hivMkYt4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Pzzjnf-ihXg58YhRxE6Epm1OrUc",
+                    "id": "UgxOfP9uXN30hivMkYt4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Gacir banget tiap main di АHMA𝘿𝑇O𝙏𝐎,nggak pernah bikin kecewa!",
+                        "textOriginal": "Gacir banget tiap main di АHMA𝘿𝑇O𝙏𝐎,nggak pernah bikin kecewa!",
+                        "authorDisplayName": "@RianAryn-u7b",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktgf3psRkAgKqgtBrHqhFCpTwn8CtlBGMPzkRqQ28gVAm_OArHXAgXv_ztPUnBWg1sIA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@RianAryn-u7b",
+                        "authorChannelId": {
+                            "value": "UCVcyR3bHKXj9lndizate5Fw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:51Z",
+                        "updatedAt": "2025-03-13T08:28:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "I2grKA2vgow8g6Sjkt0htWsWEOs",
+            "id": "Ugwz47Y42c-huiAbOcV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RYMGU3GC2HjQa6PUdEfJovk7UQA",
+                    "id": "Ugwz47Y42c-huiAbOcV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Nggak salah pilih main di 𝐴𝐆U𝐒𝑇O𝘛О,rezekinya ngalir terus. Top banget!",
+                        "textOriginal": "Nggak salah pilih main di 𝐴𝐆U𝐒𝑇O𝘛О,rezekinya ngalir terus. Top banget!",
+                        "authorDisplayName": "@DoankCristine",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4wJ1o745a8pX0WITv50Uujw4uXvzulMVIepHG4zeFQ8-oJCV9hJ7hsVaXbntXvYzOwA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DoankCristine",
+                        "authorChannelId": {
+                            "value": "UCYIZA7w9wo5rQwcYvnW5Ixw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:43Z",
+                        "updatedAt": "2025-03-13T08:28:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JFBWznviJ-BLMp-idjcuNzJsQIk",
+            "id": "Ugw9qp-z-q1zLmALgiB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vaCRmNIpClc1cBz6qDZePm9l328",
+                    "id": "Ugw9qp-z-q1zLmALgiB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Gak ada yang tau kapan rezeki datang, tapi di A𝐆𝑈𝑆T𝐎𝘛О,semuanya bisa terjadi!",
+                        "textOriginal": "Gak ada yang tau kapan rezeki datang, tapi di A𝐆𝑈𝑆T𝐎𝘛О,semuanya bisa terjadi!",
+                        "authorDisplayName": "@IvanCelesta",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kWGOY2zL43BkQohHAF2ubCG6ZxCBJ3MFVPoRSNnCPL3skEILciTq3Gatqql3ZDXtWv5A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@IvanCelesta",
+                        "authorChannelId": {
+                            "value": "UCojoYAFOxXLCKhry0aR3rMg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:43Z",
+                        "updatedAt": "2025-03-13T08:28:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EDUd5ahDEo7lB__WrfTydwf_BBE",
+            "id": "Ugw_OG240w-eG5soOuB4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vvoFslM9p_0aSK_wXAd9Ru2mjao",
+                    "id": "Ugw_OG240w-eG5soOuB4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Hasil gacir bikin aku makin puas main di 𝐀𝙀𝙍𝙊𝟴𝟾,makasih banyak!",
+                        "textOriginal": "Hasil gacir bikin aku makin puas main di 𝐀𝙀𝙍𝙊𝟴𝟾,makasih banyak!",
+                        "authorDisplayName": "@DanivertDanial",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lq_ys0z-F8TY71iMY238mtSI7xHTtIfK5xpj_ArOwQ_Y1a86jQgSV_wej4oKrByN5fYQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DanivertDanial",
+                        "authorChannelId": {
+                            "value": "UCVpvo0iXoAhokK3cHZ8u34Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:43Z",
+                        "updatedAt": "2025-03-13T08:28:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Gpq-uE-djiLDC2pfsbiy4utNGc0",
+            "id": "UgyYDQ8HlSVw3fkDhWV4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XkLmMT84VzPpcoyMXae-FfAq6E4",
+                    "id": "UgyYDQ8HlSVw3fkDhWV4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "АGU𝑆𝑇𝑂𝑇Omenawarkan berbagai fitur yang menarik bagi sebagian pemain.",
+                        "textOriginal": "АGU𝑆𝑇𝑂𝑇Omenawarkan berbagai fitur yang menarik bagi sebagian pemain.",
+                        "authorDisplayName": "@DoankCristine",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4wJ1o745a8pX0WITv50Uujw4uXvzulMVIepHG4zeFQ8-oJCV9hJ7hsVaXbntXvYzOwA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DoankCristine",
+                        "authorChannelId": {
+                            "value": "UCYIZA7w9wo5rQwcYvnW5Ixw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:38Z",
+                        "updatedAt": "2025-03-13T08:28:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nAeHeeTUhYnPw97a9492o_O6a0Y",
+            "id": "Ugy5CIWaisqE37fWx_N4AaABAg",
+            "snippet": {
+                "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                "videoId": "hs4kUhp2Bbo",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Hwk-L2CeYhHv8Ie74PWA2OAqzag",
+                    "id": "Ugy5CIWaisqE37fWx_N4AaABAg",
+                    "snippet": {
+                        "channelId": "UC0TX3ZhC59y6bOmm9PPuEsg",
+                        "videoId": "hs4kUhp2Bbo",
+                        "textDisplay": "Main bentar langsung gacir. Rezeki nggak bisa diprediksi di D𝑂𝙍A7𝟩!",
+                        "textOriginal": "Main bentar langsung gacir. Rezeki nggak bisa diprediksi di D𝑂𝙍A7𝟩!",
+                        "authorDisplayName": "@Megantaragklsd",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzwk73fmnfDwFs4aca8l6kkQx6GyTAVAtENSyHlH_Zex_oOyaCVbcQl_w7mzDMX7MLRg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Megantaragklsd",
+                        "authorChannelId": {
+                            "value": "UCyhaX8b8aI2vtdIbkwoLAcg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-03-13T08:28:02Z",
+                        "updatedAt": "2025-03-13T08:28:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

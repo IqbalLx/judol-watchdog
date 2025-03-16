@@ -1,0 +1,16 @@
+meta {
+  name: Upload JSONL
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{GROQ_BASE_URL}}/files
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  file: @file(/home/iqbal/Documents/projects/online-gamble-comments-watchtower/sample.jsonl)
+  purpose: batch
+}

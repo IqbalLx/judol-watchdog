@@ -1,0 +1,19 @@
+meta {
+  name: Create Batch Job
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{GROQ_BASE_URL}}/batches
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "input_file_id": "file_01jpf1e93vep2avwwke85wtfqc",
+    "endpoint": "/v1/chat/completions",
+    "completion_window": "24h"
+  }
+}

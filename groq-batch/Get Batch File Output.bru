@@ -1,0 +1,15 @@
+meta {
+  name: Get Batch File Output
+  type: http
+  seq: 6
+}
+
+get {
+  url: {{GROQ_BASE_URL}}/files/:batch-file-output-id/content
+  body: none
+  auth: inherit
+}
+
+params:path {
+  batch-file-output-id: file_01jpf1etmgf2g9yybt6j9ne1ra
+}
