@@ -1,0 +1,11 @@
+.vscode
+groq-batch
+judol
+node_modules
+tmp
+.env.*
+.gitignore
+*.jsonl
+*.yml
+*.md
+build

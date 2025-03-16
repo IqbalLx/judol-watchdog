@@ -27,6 +27,7 @@
 
     // kita-js requirements
     "jsxImportSource": "@kitajs/html",
-    "plugins": [{ "name": "@kitajs/ts-html-plugin" }]
+    "plugins": [{ "name": "@kitajs/ts-html-plugin" }],
+    "types": ["@kitajs/html/htmx.d.ts"]
   }
 }

@@ -137,14 +137,42 @@ export async function collectComments(
 
     let pageToken = undefined;
     for (let index = 0; index < quota; index++) {
-      const comments = await yt.commentThreads.list({
-        pageToken,
-        allThreadsRelatedToChannelId: channelID,
-        part: "snippet",
-        maxResults: maxCommentsPerFetch,
-      });
+      console.time(`processing ${index}/${quota} for channel ${channelID}`);
 
-      const data = comments.data;
+      let data: any;
+
+      const caches = await sql`
+        SELECT data
+        FROM raw_yt_comments 
+        WHERE 
+          page_token = ${pageToken ?? null} AND
+          all_threads_related_to_channel_id = ${channelID} AND
+          part = 'snippet' AND
+          max_results = ${maxCommentsPerFetch} AND
+          expired_at > NOW()
+        LIMIT 1`.values();
+
+      if (caches.length === 0) {
+        const comments = await yt.commentThreads.list({
+          pageToken,
+          allThreadsRelatedToChannelId: channelID,
+          part: "snippet",
+          maxResults: maxCommentsPerFetch,
+        });
+
+        data = comments.data;
+
+        await sql`
+        INSERT INTO raw_yt_comments ${sql({
+          page_token: pageToken ?? null,
+          all_threads_related_to_channel_id: channelID,
+          part: "snippet",
+          max_results: maxCommentsPerFetch,
+          data: JSON.stringify(data),
+        })}`;
+      } else {
+        data = JSON.parse(caches[0]);
+      }
 
       pageToken = data.nextPageToken;
 
@@ -158,6 +186,8 @@ export async function collectComments(
           });
         }
       );
+
+      console.timeEnd(`processing ${index}/${quota} for channel ${channelID}`);
     }
 
     return rawComments;
@@ -269,10 +299,10 @@ export async function doCollectJudolComments(): Promise<Error | null> {
   if (channelErr !== null)
     return new Error(`get channel db errored: ${channelErr.message}`);
 
-  const YT_QUOTA_UNITS_LIMIT = 1;
+  const YT_QUOTA_UNITS_LIMIT = 10_000;
   const MAX_COMMENT_PER_FETCH = 100;
   const COMMENT_EACH_BATCH = 50;
-  const BATCH_COMPLETION_WINDOW = "24h";
+  const BATCH_COMPLETION_WINDOW = "168h";
 
   const distributedCommentQuotas = distributeUnits(
     channels,
@@ -281,6 +311,7 @@ export async function doCollectJudolComments(): Promise<Error | null> {
 
   let poolRawComments: Comment[] = [];
   for (const channel of channels) {
+    console.time(`collecting comments for ${channel.name} (${channel.id})`);
     const rawCommentsOnChannel = await collectComments(
       channel.id,
       distributedCommentQuotas.get(channel.id) ?? 0,
@@ -288,6 +319,7 @@ export async function doCollectJudolComments(): Promise<Error | null> {
     );
 
     poolRawComments = [...poolRawComments, ...rawCommentsOnChannel];
+    console.timeEnd(`collecting comments for ${channel.name}`);
   }
 
   const judolComments = poolRawComments.filter((comment) =>
@@ -305,6 +337,7 @@ export async function doCollectJudolComments(): Promise<Error | null> {
   }));
 
   // persist comments and channel first
+  console.time(`saving judol comments`);
   try {
     await sql`INSERT INTO judol_comments ${sql(
       judolComments
@@ -320,8 +353,10 @@ export async function doCollectJudolComments(): Promise<Error | null> {
       `persisting comment n channel db errored: ${(error as Error).message}`
     );
   }
+  console.timeEnd(`saving judol comments`);
 
   // prepare LLM batch to extract blocked judol words
+  console.time(`groq batch processing`);
   const configs = batchedJudolComments.map((batchedJudolComment) =>
     getLLMConfig(batchedJudolComment.map((comment) => comment.text))
   );
@@ -339,11 +374,14 @@ export async function doCollectJudolComments(): Promise<Error | null> {
     groqFileID,
     BATCH_COMPLETION_WINDOW
   );
+
   if (batchErr !== null) {
     return new Error(`groq errored: ${batchErr.message}`);
   }
+  console.timeEnd(`groq batch processing`);
 
   // persist LLM batch
+  console.time(`saving groq batch processing`);
   try {
     await sql`INSERT INTO llm_batches ${sql({
       id: (batchRes as { id: string }).id,
@@ -357,6 +395,7 @@ export async function doCollectJudolComments(): Promise<Error | null> {
   }
 
   await file(filepath).delete();
+  console.timeEnd(`saving groq batch processing`);
 
   return null;
 }
@@ -440,4 +479,38 @@ export async function doCheckOngoingLLMBatch(): Promise<Error | null> {
   await file(filepath).delete();
 
   return null;
+}
+
+export async function doGetAllJudolChannels(): Promise<
+  [data: string[][], error: Error | null]
+> {
+  try {
+    const blockedChannels =
+      await sql`SELECT batch FROM blocked_channels WHERE invalidated_at IS NULL ORDER BY id ASC;`.values();
+
+    const fmtBlockedChannels: string[][] = blockedChannels.map(
+      (blockedChannel: string[][]) => blockedChannel[0]
+    );
+
+    return [fmtBlockedChannels, null];
+  } catch (error) {
+    return [[], error as Error];
+  }
+}
+
+export async function doGetAllJudolWords(): Promise<
+  [data: string[][], error: Error | null]
+> {
+  try {
+    const blockedWords =
+      await sql`SELECT batch FROM blocked_words WHERE invalidated_at IS NULL ORDER BY id ASC;`.values();
+
+    const fmtBlockedWords: string[][] = blockedWords.map(
+      (blockedWord: string[][]) => blockedWord[0]
+    );
+
+    return [fmtBlockedWords, null];
+  } catch (error) {
+    return [[], error as Error];
+  }
 }

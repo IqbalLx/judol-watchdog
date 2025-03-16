@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Judol Watchtower</title>
+
+        <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/light.css" />
+        <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"></script>
+    </head>
+    <body>
+        <div id="container" class="max-w-[80%] mx-auto min-h-screen bg-white p-4">
+            {{slot}}
+        </div>
+    </body>
+</html>

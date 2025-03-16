@@ -47,6 +47,16 @@ export const migrate = async () => {
         created_at TIMESTAMP WITHOUT TIME ZONE DEFAULT now(),
         invalidated_at TIMESTAMP WITHOUT TIME ZONE
     );
+
+    CREATE UNLOGGED TABLE IF NOT EXISTS raw_yt_comments (
+        id SERIAL PRIMARY KEY,
+        page_token TEXT,
+        all_threads_related_to_channel_id TEXT,
+        part TEXT,
+        max_results INTEGER,
+        data JSONB,
+        expired_at TIMESTAMP WITHOUT TIME ZONE DEFAULT NOW() + '1d'
+    )
 `.simple();
   } catch (error) {
     console.error(error, "migrate error");
