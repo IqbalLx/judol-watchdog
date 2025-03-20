@@ -339,14 +339,18 @@ export async function doCollectJudolComments(): Promise<Error | null> {
   // persist comments and channel first
   console.time(`saving judol comments`);
   try {
-    await sql`INSERT INTO judol_comments ${sql(
-      judolComments
-    )} ON CONFLICT (id) DO NOTHING;`;
+    for (const judolComment of batchedJudolComments) {
+      await sql`INSERT INTO judol_comments ${sql(
+        judolComment
+      )} ON CONFLICT (id) DO NOTHING;`;
+    }
 
     await sql`UPDATE blocked_channels SET invalidated_at = NOW();`;
-    await sql.unsafe(
-      batchInsertForTextArrColumn("blocked_channels", blockedChannels)
-    );
+    for (const blockedChannel of blockedChannels) {
+      await sql.unsafe(
+        batchInsertForTextArrColumn("blocked_channels", [blockedChannel])
+      );
+    }
   } catch (error) {
     console.error(error);
     return new Error(
@@ -471,7 +475,13 @@ export async function doCheckOngoingLLMBatch(): Promise<Error | null> {
   });
 
   await sql`UPDATE blocked_words SET invalidated_at = NOW()`;
-  await sql.unsafe(batchInsertForTextArrColumn("blocked_words", blockedWords));
+
+  for (const blockedWord of blockedWords) {
+    await sql.unsafe(
+      batchInsertForTextArrColumn("blocked_words", [blockedWord])
+    );
+  }
+
   await sql`UPDATE llm_batches SET jsonl_output_content = ${JSON.stringify(
     llmResponses
   )}, completed_at = NOW() WHERE id = ${batch.id};`;
@@ -481,36 +491,63 @@ export async function doCheckOngoingLLMBatch(): Promise<Error | null> {
   return null;
 }
 
-export async function doGetAllJudolChannels(): Promise<
-  [data: string[][], error: Error | null]
+export async function doGetAllJudolChannels(
+  id: number,
+  direction: "before" | "after"
+): Promise<
+  [data: string[][], firstID: number, lastID: number, error: Error | null]
 > {
   try {
-    const blockedChannels =
-      await sql`SELECT batch FROM blocked_channels WHERE invalidated_at IS NULL ORDER BY id ASC;`.values();
+    const blockedChannels = await sql`SELECT batch, id FROM blocked_channels 
+      WHERE invalidated_at IS NULL AND
+        id ${sql.unsafe(direction === "before" ? "<" : ">")} ${id}
+      ORDER BY id ${sql.unsafe(direction === "before" ? "DESC" : "ASC")}
+      LIMIT 1;`.values();
+
+    if (blockedChannels.length === 0) return [[], 0, 0, null];
 
     const fmtBlockedChannels: string[][] = blockedChannels.map(
       (blockedChannel: string[][]) => blockedChannel[0]
     );
 
-    return [fmtBlockedChannels, null];
+    const firstID = Number(blockedChannels[0][1]);
+    const lastID = Number(blockedChannels[blockedChannels.length - 1][1]);
+
+    return [fmtBlockedChannels, firstID, lastID, null];
   } catch (error) {
-    return [[], error as Error];
+    return [[], 0, 0, error as Error];
   }
 }
 
-export async function doGetAllJudolWords(): Promise<
-  [data: string[][], error: Error | null]
+export async function doGetAllJudolWords(
+  id: number,
+  direction: "before" | "after"
+): Promise<
+  [data: string[][], firstID: number, lastID: number, error: Error | null]
 > {
   try {
-    const blockedWords =
-      await sql`SELECT batch FROM blocked_words WHERE invalidated_at IS NULL ORDER BY id ASC;`.values();
+    const blockedWords = await sql`SELECT batch, id FROM blocked_words 
+      WHERE invalidated_at IS NULL AND
+        id ${sql.unsafe(direction === "before" ? "<" : ">")} ${id}
+      ORDER BY id ${sql.unsafe(direction === "before" ? "DESC" : "ASC")}
+      LIMIT 6;`.values();
+
+    if (blockedWords.length === 0) return [[], 0, 0, null];
 
     const fmtBlockedWords: string[][] = blockedWords.map(
       (blockedWord: string[][]) => blockedWord[0]
     );
 
-    return [fmtBlockedWords, null];
+    const firstID = Number(blockedWords[0][1]);
+    const lastID = Number(blockedWords[blockedWords.length - 1][1]);
+
+    return [
+      direction === "before" ? fmtBlockedWords.reverse() : fmtBlockedWords,
+      Math.min(firstID, lastID),
+      Math.max(firstID, lastID),
+      null,
+    ];
   } catch (error) {
-    return [[], error as Error];
+    return [[], 0, 0, error as Error];
   }
 }
